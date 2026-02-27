@@ -1,0 +1,417 @@
+{
+  "id": 215,
+  "title": "A Deep Dive into FinCEN's Beneficial Ownership Information (BOI) Reporting",
+  "pillar": "Business Structure & Compliance",
+  "category": "Deep Dives",
+  "primary_keyword": "beneficial ownership reporting",
+  "tags": [
+    "boi report",
+    "corporate transparency act",
+    "fincen",
+    "llc compliance",
+    "beneficial owner"
+  ],
+  "interlinking_suggestions": [
+    {
+      "id": 417,
+      "title": "The Best Cities for a 'Workation' in Europe",
+      "slug": "/blog/best-workation-cities-in-europe"
+    },
+    {
+      "id": 539,
+      "title": "A Deep Dive into the USA PATRIOT Act's Impact on FinTech and Banking",
+      "slug": "/blog/usa-patriot-act-impact-fintech-banking"
+    },
+    {
+      "id": 806,
+      "title": "How to Track Your Schengen Days: A Practical Guide",
+      "slug": "/blog/how-to-track-your-schengen-days-practical-guide"
+    }
+  ],
+  "author": {
+    "name": "Elena Petrova",
+    "role": "Cross-Border Legal Analyst",
+    "bio": "An international business lawyer by trade, Elena breaks down the complexities of freelance contracts, corporate structures, and international liability. Her goal is to empower freelancers with the legal knowledge to operate confidently.",
+    "expertise": [
+      "legal",
+      "contracts",
+      "compliance",
+      "business structure",
+      "risk"
+    ],
+    "credentials": [
+      "J.D., International Law"
+    ],
+    "sameAs": [
+      "https://www.linkedin.com/in/elenapetrova-example"
+    ]
+  },
+  "reviewedBy": {
+    "name": "Priya Singh, Esq.",
+    "role": "International Business Attorney",
+    "bio": "Priya is an attorney specializing in international contract law for independent contractors. She ensures that the legal advice provided is accurate, actionable, and up-to-date with current regulations.",
+    "expertise": [
+      "legal",
+      "contracts",
+      "compliance",
+      "business structure",
+      "risk",
+      "IP"
+    ],
+    "credentials": [
+      "Juris Doctor (J.D.)",
+      "Member of the New York State Bar"
+    ],
+    "sameAs": [
+      "https://www.linkedin.com/in/priyasingh-example"
+    ]
+  },
+  "key_takeaways": [
+    "Confirm that your US domestic company, such as an LLC or S-Corp, is now exempt from filing a Beneficial Ownership Information (BOI) report with FinCEN.",
+    "If you operate a foreign-registered company that is officially registered to do business in any US state, you are required to file a BOI report.",
+    "For required foreign companies, adhere strictly to the filing deadlines: April 25, 2025, for entities registered before March 26, 2025, or 30 days for new registrations.",
+    "Treat compliance as a critical risk management function, as penalties for willful non-filing include daily fines up to $591, a $10,000 fine, and potential imprisonment.",
+    "To ensure data security and proper submission, file your BOI report exclusively through the official FinCEN BOI E-Filing System, avoiding all third-party services."
+  ],
+  "summary": "A recent (fictional) FinCEN ruling has created confusion for independent professionals regarding the Corporate Transparency Act. The core advice is to determine your path: US-based companies are now exempt from filing a Beneficial Ownership Information (BOI) report, while foreign-registered companies operating in the US must follow a clear checklist to file by new deadlines. This distinction allows readers to either confidently dismiss the task or methodically achieve compliance, transforming regulatory anxiety into strategic control.",
+  "ai_overview_answer": "A March 2025 FinCEN ruling has significantly updated the Corporate Transparency Act (CTA), exempting all U.S. domestic companies from filing a Beneficial Ownership Information (BOI) report. This means U.S.-based entities like LLCs, S-Corps, and C-Corps no longer have a federal BOI reporting obligation. The requirement now applies exclusively to foreign-registered companies that are officially registered to do business in the United States. For these foreign entities, the founder is typically considered the beneficial owner.\n\nTo comply, you must gather specific company and personal information, including a passport or driver's license number, and file directly through FinCEN's secure BOI E-Filing System. The deadline for foreign companies registered before March 26, 2025, is April 25, 2025; those registered on or after that date have 30 days to file. Willful non-compliance carries severe penalties, including daily fines up to $591, a $10,000 fine, and potential imprisonment.",
+  "disclaimer": null,
+  "slug": "fincen-beneficial-ownership-information-boi-reporting-deep-dive",
+  "canonicalUrl": "https://gruv.ai/blog/fincen-beneficial-ownership-information-boi-reporting-deep-dive",
+  "source_urls": [],
+  "wordCount": 1285,
+  "readingTime": 7,
+  "seo": {
+    "meta_title": "Beneficial Ownership Reporting: Are You Exempt? 2025 Update",
+    "meta_description": "A March 2025 rule changes beneficial ownership reporting. See if your US company is now exempt or get the action checklist for foreign companies. Find your path now.",
+    "ogTitle": "Beneficial Ownership Reporting: Are You Exempt? 2025 Update",
+    "ogDescription": "A March 2025 rule changes beneficial ownership reporting. See if your US company is now exempt or get the action checklist for foreign companies. Find your path now.",
+    "ogImage": "https://images.pexels.com/photos/669610/pexels-photo-669610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "featuredImage": "https://images.pexels.com/photos/669610/pexels-photo-669610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "twitterTitle": "Beneficial Ownership Reporting: Are You Exempt? 2025 Update",
+    "twitterDescription": "A March 2025 rule changes beneficial ownership reporting. See if your US company is now exempt or get the action checklist for foreign companies. Find your path now.",
+    "twitterImage": "",
+    "twitterCard": "summary_large_image",
+    "image_alt": "A deep dive into FinCEN's Beneficial Ownership Information (BOI) reporting requirements."
+  },
+  "dates": {
+    "published_date": "2024-05-21T12:00:00.000Z",
+    "last_updated": "2024-05-21T12:00:00.000Z"
+  },
+  "structured_data": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://gruv.ai/#organization",
+        "name": "Gruv",
+        "url": "https://gruv.ai",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://gruv.ai/logo.png"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://gruv.ai/blog/fincen-beneficial-ownership-information-boi-reporting-deep-dive#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://gruv.ai"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Blog",
+            "item": "https://gruv.ai/blog"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "A Deep Dive into FinCEN's Beneficial Ownership Information (BOI) Reporting",
+            "item": "https://gruv.ai/blog/fincen-beneficial-ownership-information-boi-reporting-deep-dive"
+          }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "@id": "https://gruv.ai/blog/fincen-beneficial-ownership-information-boi-reporting-deep-dive#howto",
+        "mainEntityOfPage": {
+          "@id": "https://gruv.ai/blog/fincen-beneficial-ownership-information-boi-reporting-deep-dive"
+        },
+        "name": "How to Comply with FinCEN BOI Reporting for Foreign Companies",
+        "description": "A step-by-step guide for foreign-registered companies to comply with the Corporate Transparency Act's Beneficial Ownership Information reporting requirements.",
+        "headline": "A Deep Dive into FinCEN's Beneficial Ownership Information (BOI) Reporting",
+        "datePublished": "2024-05-21T12:00:00.000Z",
+        "dateModified": "2024-05-21T12:00:00.000Z",
+        "inLanguage": "en-US",
+        "articleSection": "Deep Dives",
+        "isAccessibleForFree": true,
+        "author": {
+          "@type": "Person",
+          "name": "Elena Petrova",
+          "url": "https://www.linkedin.com/in/elenapetrova-example"
+        },
+        "publisher": {
+          "@id": "https://gruv.ai/#organization"
+        },
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Identify Your 'Beneficial Owners'",
+            "text": "For the vast majority of solo global professionals, this step is straightforward: the beneficial owner is you. A beneficial owner is any individual who either exercises \"substantial control\" over the company or who owns or controls at least 25% of its ownership interests. As the founder and operator of your own enterprise, you meet both criteria. Substantial Control is defined as serving as a senior officer or ultimate decision-maker. Ownership Interest refers to owning 25% or more of the company's equity or voting rights.",
+            "position": 1
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Gather the Required Information",
+            "text": "Create a secure digital folder and collect a specific set of documents and data points for both your company and each beneficial owner. For the company, you'll need its legal name, US address, formation jurisdiction, and EIN. For each beneficial owner, you'll need their full name, date of birth, residential address, and an unexpired identifying document like a passport, along with its unique ID number and a digital image.",
+            "position": 2
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Know Your Deadlines and File Securely",
+            "text": "The filing deadlines depend on your company's registration date. If registered before March 26, 2025, you must file by April 25, 2025. If registered on or after March 26, 2025, you have 30 calendar days to file. The only way to submit your BOI report is through the secure BOI E-Filing System on the official FinCEN website. Avoid third-party services to ensure data security.",
+            "position": 3
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://gruv.ai/blog/fincen-beneficial-ownership-information-boi-reporting-deep-dive#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Do US LLCs need to file a BOI report after March 2025?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. As of the interim final rule issued by FinCEN in March 2025, all U.S. domestic companies, including LLCs, S-Corps, and C-Corps, are exempt from the beneficial ownership reporting requirements. If your business is a U.S.-based entity, you have no report to file under the Corporate Transparency Act."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Who is exempt from beneficial ownership reporting?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The exemption is broad: all U.S. domestic companies are exempt. The compliance obligation has been specifically refocused onto foreign-registered companies that have formally registered to conduct business within the United States."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is the penalty for not filing a BOI report?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "For foreign companies that are required to file, willfully failing to do so can lead to civil penalties of up to $591 per day, a fine of up to $10,000, and up to two years of imprisonment."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is my foreign company required to report beneficial ownership in the US?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, if that company is registered to do business in the United States. The trigger is not your citizenship but whether your foreign entity (e.g., a UK Limited Company) has filed paperwork to officially operate in any U.S. state. This makes it a \"foreign reporting company\" obligated to file a BOI report."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is the new deadline for BOI reporting for foreign companies?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The dates are precise. For companies registered before March 26, 2025, the deadline is April 25, 2025. For companies registered on or after March 26, 2025, you have 30 calendar days from your registration date to file."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What exactly is a \"beneficial owner\"?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A beneficial owner is any individual who, directly or indirectly, either (1) exercises \"substantial control\" over the company (like a CEO or President) or (2) owns or controls at least 25% of the ownership interests. For most solo entrepreneurs operating their own foreign entity, the answer is simple: you are the beneficial owner."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "body": [
+    {
+      "type": "paragraph",
+      "content": "The landscape of global compliance is a defining challenge for the modern independent professional. A single rule change can create a wave of confusion, leaving you to question your obligations and deadlines. The **Corporate Transparency Act (CTA)** has been a prime source of this anxiety."
+    },
+    {
+      "type": "paragraph",
+      "content": "However, a pivotal (and fictional for this article) **FinCEN** ruling in March 2025 has dramatically clarified the path forward. The once-murky requirements have now split into two distinct paths. One offers immediate relief, while the other demands focused action."
+    },
+    {
+      "type": "paragraph",
+      "content": "This guide provides the framework to determine your path, cut through the noise, and transform compliance anxiety into strategic control. You will leave with a definitive answer and a clear plan."
+    },
+    {
+      "type": "heading_2",
+      "content": "Path 1: The \"All Clear\" Confirmation (For Your US-Based Business)"
+    },
+    {
+      "type": "paragraph",
+      "content": "For many of you, taking control begins not with a frantic scramble, but with a welcome sigh of relief. If you operate your business through an American entity, the compliance burden you were anticipating from the **Corporate Transparency Act** has been lifted. This section provides the authoritative confirmation you need to confidently redirect your energy where it matters most."
+    },
+    {
+      "type": "paragraph",
+      "content": "This shift is the direct result of a pivotal **FinCEN** interim final rule issued in March 2025. Here is the single most important takeaway:"
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "**The Exemption is Official:** As of this ruling, all U.S. domestic companies—including the single-member LLCs, S-Corps, and C-Corps that are the backbone of so many independent businesses—are **exempt** from filing a **beneficial ownership information (BOI)** report. The federal requirement that was a source of so much confusion no longer applies to your domestic entity. You have no federal **BOI report** to file and no deadlines to track under this act."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "This isn't abstract legal news; it has a direct, practical impact on your business-of-one. If you're a US-based consultant who formed a Delaware S-Corp for liability protection, or a digital nomad who created a Wyoming LLC to establish a clear US presence, your anxiety over *this specific rule* is over. You can confidently move this task off your mental checklist. This ruling fundamentally alters the landscape, focusing the reporting requirements exclusively on foreign-registered companies operating in the US."
+    },
+    {
+      "type": "paragraph",
+      "content": "To provide a truly clean slate, the policy change goes one step further. FinCEN has also stated its intention to delete the **beneficial owner** data previously filed by these now-exempt U.S. companies. This critical move closes the loop on past compliance actions, ensuring the information you may have already submitted does not become a lingering data liability."
+    },
+    {
+      "type": "paragraph",
+      "content": "However, a seasoned professional knows that one exemption does not eliminate all responsibility. Use this moment of relief not to forget about compliance, but to refocus. The regulatory landscape is volatile. Your \"Business-of-One\" still requires diligent management of crucial state-level obligations, such as annual reports and franchise tax payments. This is where true control lies—in transforming this win into momentum for building a more resilient and well-managed operation."
+    },
+    {
+      "type": "heading_2",
+      "content": "Path 2: The Action-Required Checklist (For Your Foreign-Registered Business)"
+    },
+    {
+      "type": "paragraph",
+      "content": "While the new rule brings relief to many, your path is different if your business operates through a non-US entity. This is not a cause for alarm, but a call for focused, methodical action. If your \"Business-of-One\" is a foreign-registered company active in the United States, you are on the \"Action Required\" path. We have translated this legal obligation into a simple, step-by-step project plan to put you firmly in control."
+    },
+    {
+      "type": "paragraph",
+      "content": "First, you must **confirm your status**. This path applies if you operate a \"foreign reporting company.\" In simple terms, if your business is structured as a UK Ltd., an Estonian OÜ, or any other entity formed under the laws of a foreign country, and you have officially registered it to do business in any U.S. state, you are required to file a **BOI report**. This is a crucial distinction: your personal citizenship is not the determining factor. The **Corporate Transparency Act** focuses exclusively on where the company itself is formed and registered."
+    },
+    {
+      "type": "heading_3",
+      "content": "Step 1: Identify Your \"Beneficial Owners\""
+    },
+    {
+      "type": "paragraph",
+      "content": "For the vast majority of solo global professionals, this step is straightforward: **the beneficial owner is you**. A **beneficial owner** is any individual who either exercises \"substantial control\" over the company or who owns or controls at least 25% of its ownership interests. As the founder and operator of your own enterprise, you meet both criteria."
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "**Substantial Control:** If you serve as a senior officer (CEO, President), have the authority to appoint or remove key personnel, or are the ultimate decision-maker, you exercise substantial control. As the CEO of \"Me, Inc.,\" this is inherently your role.",
+        "**Ownership Interest:** This refers to anyone who owns or controls 25% or more of the company's equity, stock, or voting rights."
+      ]
+    },
+    {
+      "type": "heading_3",
+      "content": "Step 2: Gather the Required Information"
+    },
+    {
+      "type": "paragraph",
+      "content": "Next, create a secure digital folder and collect a specific set of documents and data points. Organization here is key to a smooth filing. FinCEN requires information for both your company and for each beneficial owner."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Information Required for...",
+        "Data Points to Collect"
+      ],
+      "rows": [
+        [
+          "**The Reporting Company**",
+          "Full legal name and any trade names (DBAs)\nCurrent U.S. address of your principal place of business\nThe foreign jurisdiction where the company was formed\nYour U.S. Employer Identification Number (EIN)"
+        ],
+        [
+          "**Each Beneficial Owner (You)**",
+          "Your full legal name\nDate of birth\nYour current residential address\nAn unexpired identifying document (e.g., passport, U.S. driver's license)\nThe unique ID number from that document and a clear digital image of it"
+        ]
+      ]
+    },
+    {
+      "type": "heading_3",
+      "content": "Step 3: Know Your Deadlines and File Securely"
+    },
+    {
+      "type": "paragraph",
+      "content": "With your information gathered, the final step is execution. The \"when\" and \"how\" are critical for mitigating risk."
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "**Know Your Deadlines:** The deadlines are based on when your foreign company was registered to do business in the U.S.\n    *   If registered *before* March 26, 2025, you must file your initial report by **April 25, 2025**.\n    *   If registered *on or after* March 26, 2025, you have **30 calendar days** from the date of your registration to file.",
+        "**File Through the Official Channel:** The *only* way to submit your **BOI report** is through the secure BOI E-Filing System on the official **FinCEN** website. Do not trust third-party websites that offer to file on your behalf. Go directly to the source to ensure your data is secure and your filing is received correctly."
+      ]
+    },
+    {
+      "type": "heading_2",
+      "content": "Why Flawless Compliance is Non-Negotiable"
+    },
+    {
+      "type": "paragraph",
+      "content": "Completing the checklist transforms a legal requirement into a manageable task. But to truly operate with foresight, it's crucial to understand the strategic reasons why flawless compliance is non-negotiable. Knowing the \"why\" behind this rule is what elevates this from a simple task into a core element of your professional risk management strategy."
+    },
+    {
+      "type": "paragraph",
+      "content": "First, understand the intent. The **Corporate Transparency Act** was created to combat money laundering, terrorist financing, and other illicit activities by eliminating the anonymous shell companies used to hide such crimes. While the March 2025 rule change shifted the focus away from domestic companies, the core mission of **FinCEN** remains the same: transparency. Your compliance is part of a much larger effort to secure the integrity of the U.S. financial system."
+    },
+    {
+      "type": "paragraph",
+      "content": "Respecting this mission means understanding the consequences of non-compliance. The penalties are designed to be a powerful deterrent:"
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "**Stark Penalties:** Willfully failing to file a complete **BOI report** or providing false information carries severe civil and criminal penalties. These include civil fines of up to $591 for *each day* a violation continues (a figure adjusted for inflation), and potential criminal penalties of up to two years imprisonment and a $10,000 fine. This is not a minor administrative slap on the wrist.",
+        "**Beyond the Fines:** For a \"Business-of-One,\" the secondary risks are just as catastrophic. An investigation can trigger a cascade of operational disasters. Imagine your business bank accounts being frozen, severing your financial lifeline. Picture the irreversible damage to your hard-won client relationships and professional reputation. The potential for such disruption far outweighs the minimal effort required to file correctly and on time."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "You should not be intimidated by these penalties, but you must respect them. By following the clear checklist we've provided, you move this critical task from a vague, anxiety-inducing threat into a managed and controlled business process. Setting calendar reminders, double-checking your information, and filing through the official portal are the actions that put you in command. This is the essence of professional autonomy—acknowledging a risk and systematically neutralizing it."
+    },
+    {
+      "type": "heading_2",
+      "content": "Frequently Asked Questions"
+    },
+    {
+      "type": "paragraph",
+      "content": "After transforming a vague threat into a managed process, it's natural to have lingering questions. This is the final step in neutralizing compliance anxiety—replacing any remaining uncertainty with definitive answers."
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "**Do US LLCs need to file a BOI report after March 2025?**\n    No. As of the interim final rule issued by **FinCEN** in March 2025, all U.S. domestic companies, including LLCs, S-Corps, and C-Corps, are **exempt** from the **beneficial ownership reporting** requirements. If your business is a U.S.-based entity, you have no report to file under the **Corporate Transparency Act**.",
+        "**Who is exempt from beneficial ownership reporting?**\n    The exemption is broad: all U.S. domestic companies are exempt. The compliance obligation has been specifically refocused onto foreign-registered companies that have formally registered to conduct business within the United States.",
+        "**What is the penalty for not filing a BOI report?**\n    For foreign companies that are required to file, willfully failing to do so can lead to civil penalties of up to $591 per day, a fine of up to $10,000, and up to two years of imprisonment.",
+        "**Is my foreign company required to report beneficial ownership in the US?**\n    Yes, if that company is registered to do business in the United States. The trigger is not your citizenship but whether your foreign entity (e.g., a UK Limited Company) has filed paperwork to officially operate in any U.S. state. This makes it a \"foreign reporting company\" obligated to file a **BOI report**.",
+        "**What is the new deadline for BOI reporting for foreign companies?**\n    The dates are precise.\n    *   For companies registered *before* March 26, 2025, the deadline is **April 25, 2025**.\n    *   For companies registered *on or after* March 26, 2025, you have **30 calendar days** from your registration date to file.",
+        "**What exactly is a \"beneficial owner\"?**\n    A **beneficial owner** is any individual who, directly or indirectly, either (1) exercises **\"substantial control\"** over the company (like a CEO or President) or (2) owns or controls at least **25% of the ownership interests**. For most solo entrepreneurs operating their own foreign entity, the answer is simple: **you are the beneficial owner.**"
+      ]
+    },
+    {
+      "type": "heading_2",
+      "content": "Conclusion: From Anxiety to Action"
+    },
+    {
+      "type": "paragraph",
+      "content": "With these precise definitions and dates now clear, the once-murky waters of the **Corporate Transparency Act** become navigable. You have cut through the noise and now know which path you are on: the \"All Clear\" path of confident relief or the \"Action Required\" path of methodical control."
+    },
+    {
+      "type": "paragraph",
+      "content": "That clarity is your most powerful tool. You are no longer burning mental energy on the unknown. You have a definitive answer and a plan—the freedom to move on or a checklist to execute. This certainty eliminates the low-grade, persistent anxiety that complex rules like this create."
+    },
+    {
+      "type": "paragraph",
+      "content": "This transformation—from a vague threat to a managed process—is the essence of professional autonomy. By treating compliance not as an external menace but as another system to be mastered, you reinforce your role as the CEO of your business. A CEO doesn't fear challenges; they build frameworks to handle them. This is a repeatable skill that serves you far beyond any single regulation. And it is the foundation of true professional freedom."
+    }
+  ],
+  "ogImage": "https://images.pexels.com/photos/669610/pexels-photo-669610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "featuredImage": "https://images.pexels.com/photos/669610/pexels-photo-669610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+}

@@ -1,0 +1,452 @@
+{
+  "id": 871,
+  "title": "How to Connect Wise to Xero",
+  "pillar": "Payment Protection & Finance",
+  "category": "Productivity",
+  "primary_keyword": "connect wise to xero",
+  "tags": [
+    "wise xero integration",
+    "bank feed",
+    "accounting automation",
+    "freelance bookkeeping",
+    "productivity"
+  ],
+  "interlinking_suggestions": [
+    {
+      "id": 62,
+      "title": "Separating Business and Personal Finances: A Crucial Step for LLCs",
+      "slug": "/blog/separating-business-and-personal-finances"
+    },
+    {
+      "id": 90,
+      "title": "Value-Based Pricing: A Freelancer's Guide",
+      "slug": "/blog/value-based-pricing-guide"
+    }
+  ],
+  "author": {
+    "name": "Marcus Thorne",
+    "role": "Productivity & Operations Expert",
+    "bio": "A former tech COO turned 'Business-of-One' consultant, Marcus is obsessed with efficiency. He writes about optimizing workflows, leveraging technology, and building resilient systems for solo entrepreneurs.",
+    "expertise": [
+      "productivity",
+      "business operations",
+      "SaaS",
+      "automation",
+      "freelance tools"
+    ],
+    "credentials": [
+      "MBA, Operations Management"
+    ],
+    "sameAs": [
+      "https://www.linkedin.com/in/marcusthorne-example"
+    ]
+  },
+  "reviewedBy": {
+    "name": "Dr. Alistair Finch",
+    "role": "International Tax Strategist",
+    "bio": "With a Ph.D. in Economics and over 15 years at a Big Four accounting firm, Alistair specializes in demystifying cross-border tax law for independent professionals. He focuses on risk mitigation and long-term financial planning.",
+    "expertise": [
+      "tax",
+      "compliance",
+      "finance",
+      "legal",
+      "FBAR",
+      "FEIE",
+      "residency"
+    ],
+    "credentials": [
+      "Ph.D., Economics",
+      "Certified Public Accountant (CPA)"
+    ],
+    "sameAs": [
+      "https://www.linkedin.com/in/alistairfinch-example"
+    ]
+  },
+  "key_takeaways": [
+    "Before integrating any software, first diagnose whether your primary bottleneck is in your global treasury (money management) or your operations engine (work management).",
+    "To ensure compliance and data integrity, create a distinct, meticulously mapped bank account in your accounting software for every single foreign currency you hold.",
+    "Rigorously separate gross revenue from transaction fees using your accounting software's 'split' function to ensure accurate profitability tracking and maximize tax deductions.",
+    "Treat automation as a data delivery tool, not a replacement for oversight, by scheduling non-negotiable weekly time to personally reconcile all transactions."
+  ],
+  "summary": "Global professionals often struggle with financial friction across borders, but misdiagnosing the bottleneck as either a treasury or operational issue leads to flawed systems. The core advice is to first identify the true source of friction, then execute the correct integration blueprint: connect Wise to Xero for treasury control or ConnectWise to Xero for operational efficiency. By meticulously architecting the right system instead of just connecting apps, you can transform financial anxiety into strategic authority, creating a resilient, audit-ready infrastructure that provides total clarity over your global business.",
+  "ai_overview_answer": "To build a resilient global financial system, you must first diagnose whether your primary bottleneck is in treasury (cash management) or operations (work management), and then integrate the appropriate platforms with your accounting software like Xero. For treasury challenges, connect a Wise Business account to Xero to create a direct, multi-currency bank feed. This provides an auditable data trail, simplifies FBAR compliance monitoring, and offers a unified view of your global cash position. If the bottleneck is operational, connect a project management tool like ConnectWise to Xero to ensure project data flows accurately into your financial records. This connection requires either using third-party middleware like Zapier for speed or building a custom API integration for total control. When integrating Wise, it is crucial to create and map a separate bank account in Xero for each currency to avoid reconciliation errors. Finally, remember that automation provides data but does not replace the need for regular, human-led reconciliation to maintain an audit-ready system.",
+  "disclaimer": "The information provided in this article is for informational purposes only and does not constitute legal or financial advice. You should consult with a qualified professional for advice tailored to your individual situation.",
+  "slug": "/blog/how-to-connect-wise-to-xero",
+  "canonicalUrl": "https://gruv.ai/blog/how-to-connect-wise-to-xero",
+  "source_urls": [],
+  "wordCount": 1515,
+  "readingTime": 8,
+  "meta_title": "Connect Wise to Xero: The Definitive Step-by-Step Guide",
+  "meta_description": "Learn how to connect Wise to Xero for a bulletproof global treasury. Our guide details multi-currency mapping, compliance, and avoiding costly errors. Get the pro blueprint.",
+  "image_alt": "A step-by-step guide on how to connect Wise to Xero for global financial management.",
+  "ogTitle": "Connect Wise to Xero: The Definitive Step-by-Step Guide",
+  "ogDescription": "Learn how to connect Wise to Xero for a bulletproof global treasury. Our guide details multi-currency mapping, compliance, and avoiding costly errors. Get the pro blueprint.",
+  "twitterTitle": "Connect Wise to Xero: The Definitive Step-by-Step Guide",
+  "twitterDescription": "Learn how to connect Wise to Xero for a bulletproof global treasury. Our guide details multi-currency mapping, compliance, and avoiding costly errors. Get the pro blueprint.",
+  "twitterCard": "summary_large_image",
+  "ogImage": "https://images.pexels.com/photos/8124228/pexels-photo-8124228.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "featuredImage": "https://images.pexels.com/photos/8124228/pexels-photo-8124228.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "twitterImage": "",
+  "dates": {
+    "published_date": "2024-05-21T12:00:00Z",
+    "last_updated": "2024-05-21T12:00:00Z"
+  },
+  "structured_data": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://gruv.ai/#organization",
+        "name": "Gruv",
+        "url": "https://gruv.ai",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://gruv.ai/logo.png"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://gruv.ai/blog/how-to-connect-wise-to-xero/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://gruv.ai"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Blog",
+            "item": "https://gruv.ai/blog"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "How to Connect Wise to Xero"
+          }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "@id": "https://gruv.ai/blog/how-to-connect-wise-to-xero/#howto",
+        "name": "How to Connect Wise to Xero",
+        "description": "Learn how to connect Wise to Xero for a bulletproof global treasury. Our guide details multi-currency mapping, compliance, and avoiding costly errors. Get the pro blueprint.",
+        "datePublished": "2024-05-21T12:00:00Z",
+        "dateModified": "2024-05-21T12:00:00Z",
+        "inLanguage": "en-US",
+        "isAccessibleForFree": true,
+        "articleSection": "Productivity",
+        "author": {
+          "@type": "Person",
+          "name": "Marcus Thorne",
+          "url": "https://www.linkedin.com/in/marcusthorne-example"
+        },
+        "publisher": {
+          "@id": "https://gruv.ai/#organization"
+        },
+        "step": [
+          {
+            "@type": "HowToSection",
+            "name": "The Critical Diagnosis—Treasury or Operations?",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "text": "Before connecting a single app, you must perform a rigorous diagnosis to identify the true source of friction. Is your primary pain in managing money, or in managing the work that generates the money? Answering this question with brutal honesty is the most important step."
+              }
+            ]
+          },
+          {
+            "@type": "HowToSection",
+            "name": "Blueprint A: Architecting a Compliance-Ready Global Treasury with Wise + Xero",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "text": "If your diagnosis points to a Global Treasury bottleneck, your strategic path is to architect a fortress for your finances. The objective is to create an unimpeachable, single source of truth for your global cash flow. This integration is about eliminating compliance anxiety and operating with the financial clarity of a much larger enterprise."
+              },
+              {
+                "@type": "HowToStep",
+                "name": "Pre-Flight Check",
+                "text": "Confirm you have a Wise Business account, as the direct integration is a feature of the business platform. You must also be on a Xero plan that supports multi-currency functionality."
+              },
+              {
+                "@type": "HowToStep",
+                "name": "Initiate Connection from Wise",
+                "text": "Log in to your Wise Business account. Navigate to the \"Connected accounts\" or \"Apps\" section and find Xero."
+              },
+              {
+                "@type": "HowToStep",
+                "name": "Authorize Xero",
+                "text": "Select Xero and follow the on-screen prompts. You will be redirected to Xero to grant Wise secure, permission-based access to your Xero organization."
+              },
+              {
+                "@type": "HowToStep",
+                "name": "Map Your Currency Balances",
+                "text": "This is the most critical step. For each currency you hold in Wise (e.g., Euros), you must map it to the corresponding bank account in Xero. If a corresponding account doesn't exist in Xero yet, create it before finalizing the mapping."
+              },
+              {
+                "@type": "HowToStep",
+                "name": "Activate the Feed",
+                "text": "Once all currency balances are correctly mapped, activate the connection. Your Wise transactions will now begin syncing automatically into Xero, ready for you to reconcile."
+              }
+            ]
+          },
+          {
+            "@type": "HowToSection",
+            "name": "Blueprint B: Linking Your Project Profitability Engine with ConnectWise + Xero",
+            "itemListElement": [
+              {
+                "@type": "HowToDirection",
+                "text": "If your bottleneck is your Operations Engine, your goal is different. You need to ensure the project data that dictates your revenue flows seamlessly and accurately into your financial ledger. Unlike the native Wise integration, there is no single button to connect ConnectWise and Xero. You must build the bridge yourself, forcing a crucial decision between speed and control."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://gruv.ai/blog/how-to-connect-wise-to-xero/#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is the difference between Wise and ConnectWise?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Wise is your Global Treasury—a financial technology platform for managing money across borders (sending, receiving, and holding multiple currencies). ConnectWise is your Operations Engine—a Professional Services Automation (PSA) platform for managing the work that generates revenue (projects, clients, and service tickets). One manages money; the other manages work."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is there a direct ConnectWise to Xero integration?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. To connect these two platforms, you must make a strategic choice: either use third-party middleware (like Zapier) for rapid deployment with less control, or build a custom solution using their APIs for total control and scalability."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Do I need a Wise Business account to connect to Xero?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, absolutely. The direct bank feed integration is a specific feature of Wise Business accounts and is not available for personal accounts. Using a business account is a critical step in separating your personal and professional finances for liability protection and clean bookkeeping."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Does the Wise integration handle different currencies in Xero?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, this is its core strength, but it requires that your Xero plan supports multiple currencies. During setup, you must meticulously \"map\" each currency balance in Wise (e.g., EUR, GBP) to a separate, corresponding bank account for that same currency within Xero."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "body": [
+    {
+      "type": "heading_2",
+      "content": "Architecting Your Global Operations: A Guide to Resilient Financial Systems"
+    },
+    {
+      "type": "paragraph",
+      "content": "As a global professional, you’ve pinpointed the friction. It’s not in managing projects, but in managing the flow of money and work across borders. Integrating your key platforms, such as Wise and Xero, isn't a matter of simple convenience; it’s the foundational act of building a resilient operational and financial system."
+    },
+    {
+      "type": "paragraph",
+      "content": "The key is to understand that a search for a simple connection often points to one of two distinct bottlenecks: one in your treasury, the other in your operations. Applying the wrong solution doesn't just waste time—it adds dangerous complexity at the very moment you seek clarity. This guide provides the diagnostic framework and execution blueprints to architect the right system for your specific needs, transforming financial anxiety into strategic authority."
+    },
+    {
+      "type": "heading_3",
+      "content": "Step 1: The Critical Diagnosis—Treasury or Operations?"
+    },
+    {
+      "type": "paragraph",
+      "content": "Before connecting a single app, you must perform a rigorous diagnosis to identify the true source of friction. Is your primary pain in managing money, or in managing the work that generates the money? Answering this question with brutal honesty is the most important step."
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "**Is your bottleneck your Global Treasury?** Do you wrestle with multi-currency invoices, track international payments, and lose sleep over FBAR compliance? If your challenges revolve around the efficient and compliant management of cash across borders, your focus must be on **Blueprint A: Fortifying your treasury by connecting Wise (your financial institution) to Xero.**",
+        "**Is your bottleneck your Operations Engine?** Are your struggles centered on tracking billable hours, ensuring project profitability, and turning completed work into accurate invoices? If your pain is in the flow of work into revenue, your focus must be on **Blueprint B: Streamlining your operations by connecting ConnectWise (your project hub) to Xero.**"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "These two platforms solve fundamentally different problems. Wise manages the bank accounts; ConnectWise manages the work that fills them. Aim your efforts at the correct target."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Tool",
+        "Core Function",
+        "Solves Problems Of..."
+      ],
+      "rows": [
+        [
+          "**Wise**",
+          "A financial platform for sending, receiving, and holding multiple currencies.",
+          "Cash management, international payments, currency conversion, and global banking."
+        ],
+        [
+          "**ConnectWise**",
+          "A Professional Services Automation (PSA) platform for managing projects and clients.",
+          "Project profitability, time tracking, resource allocation, and service delivery workflows."
+        ]
+      ]
+    },
+    {
+      "type": "heading_3",
+      "content": "Blueprint A: Architecting a Compliance-Ready Global Treasury with Wise + Xero"
+    },
+    {
+      "type": "paragraph",
+      "content": "If your diagnosis points to a Global Treasury bottleneck, your strategic path is to architect a fortress for your finances. The objective is to create an unimpeachable, single source of truth for your global cash flow. This integration is about eliminating compliance anxiety and operating with the financial clarity of a much larger enterprise."
+    },
+    {
+      "type": "paragraph",
+      "content": "**Establish an Auditable Data Trail**\nThe core benefit is not saving time on data entry; it is the creation of an automated, immutable flow of financial data from your financial institution directly to your ledger. This direct **bank feed** is your first and strongest line of defense in an audit. Every transaction is recorded automatically, creating a verifiable, chronological record and eliminating the risk of manual errors that can corrupt your books and raise red flags."
+    },
+    {
+      "type": "paragraph",
+      "content": "**Automate FBAR Compliance Monitoring**\nFor any U.S. professional operating globally, this is non-negotiable. The Report of Foreign Bank and Financial Accounts (FBAR) requires you to report to the U.S. Treasury if the aggregate value of your foreign financial accounts exceeds $10,000 at any point during the year. By syncing all your Wise multi-currency balances directly into Xero, you create a centralized dashboard that makes monitoring this threshold nearly effortless, drastically reducing the risk of a significant financial penalty."
+    },
+    {
+      "type": "paragraph",
+      "content": "**Achieve a Unified Multi-Currency View**\nStop logging into multiple apps and wrestling with spreadsheets to understand your true cash position. This connection centralizes every currency balance—USD, EUR, GBP, JPY, and more—into one clear Xero dashboard. It provides the powerful, unified financial oversight of a CFO, allowing you to make strategic decisions with a real-time, comprehensive view of your entire global treasury."
+    },
+    {
+      "type": "heading_3",
+      "content": "The 5-Step Execution Plan"
+    },
+    {
+      "type": "paragraph",
+      "content": "Executing this integration is a straightforward, tactical process. Follow these steps precisely."
+    },
+    {
+      "type": "list",
+      "style": "ordered",
+      "items": [
+        "**Pre-Flight Check:** Confirm you have a Wise Business account, as the direct integration is a feature of the business platform. You must also be on a Xero plan that supports multi-currency functionality.",
+        "**Initiate Connection from Wise:** Log in to your Wise Business account. Navigate to the \"Connected accounts\" or \"Apps\" section and find Xero.",
+        "**Authorize Xero:** Select Xero and follow the on-screen prompts. You will be redirected to Xero to grant Wise secure, permission-based access to your Xero organization.",
+        "**Map Your Currency Balances:** This is the most critical step. For each currency you hold in Wise (e.g., Euros), you must map it to the corresponding bank account in Xero. If a corresponding account doesn't exist in Xero yet, create it before finalizing the mapping.",
+        "**Activate the Feed:** Once all currency balances are correctly mapped, activate the connection. Your Wise transactions will now begin syncing automatically into Xero, ready for you to reconcile."
+      ]
+    },
+    {
+      "type": "heading_3",
+      "content": "Blueprint B: Linking Your Project Profitability Engine with ConnectWise + Xero"
+    },
+    {
+      "type": "paragraph",
+      "content": "If your bottleneck is your Operations Engine, your goal is different. You need to ensure the project data that dictates your revenue flows seamlessly and accurately into your financial ledger. Unlike the native Wise integration, there is no single button to connect ConnectWise and Xero. You must build the bridge yourself, forcing a crucial decision between speed and control."
+    },
+    {
+      "type": "heading_3",
+      "content": "Option 1: Third-Party Middleware (The Rapid Deployment)"
+    },
+    {
+      "type": "paragraph",
+      "content": "The fastest path involves using middleware platforms like Zapier or Make. These services act as translators, allowing you to create simple, one-way workflows without code. For example: \"When a new invoice is created in ConnectWise, create a corresponding draft invoice in Xero.\""
+    },
+    {
+      "type": "table",
+      "header": [
+        "Pros",
+        "Cons (Risk)"
+      ],
+      "rows": [
+        [
+          "**Speed:** Establish a basic connection in hours, not weeks.",
+          "**Data Dependency:** You are placing critical financial data in the hands of a third party, creating another potential point of failure."
+        ],
+        [
+          "**No Technical Expertise:** The user-friendly interfaces are designed for non-developers.",
+          "**Compromised Integrity:** A misconfigured workflow can lead to data duplication or sync errors, corrupting your financial records."
+        ]
+      ]
+    },
+    {
+      "type": "heading_3",
+      "content": "Option 2: Direct API Integration (The High-Control Build)"
+    },
+    {
+      "type": "paragraph",
+      "content": "For the professional who views operational data as a core strategic asset, the superior choice is a direct integration using the public APIs (Application Programming Interfaces) of both ConnectWise and Xero. This approach involves hiring a developer or using a low-code platform to build a custom, bi-directional sync tailored to your exact workflow."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Pros",
+        "Cons (Risk)"
+      ],
+      "rows": [
+        [
+          "**Total Control & Security:** You dictate the exact data flow, logic, and error handling with no intermediary.",
+          "**Resource Intensive:** Requires a significant investment of time and either technical expertise or the budget for a developer."
+        ],
+        [
+          "**Infinite Scalability:** A custom build can evolve with your business, handling increased complexity without hitting third-party limitations.",
+          "**Maintenance Overhead:** You are responsible for maintaining the connection as the platforms update their APIs."
+        ]
+      ]
+    },
+    {
+      "type": "heading_3",
+      "content": "The Strategic Choice"
+    },
+    {
+      "type": "paragraph",
+      "content": "Your decision must be based on your business's complexity and your tolerance for data integrity risk. If you only need to sync a handful of invoices each month, a carefully managed middleware solution might suffice. However, if your business depends on accurate project profitability tracking and a pristine link between operations and finance, a direct API integration is the only professional standard. It's the difference between building on rented land versus a foundation you own completely."
+    },
+    {
+      "type": "heading_3",
+      "content": "Implementation Masterclass: Avoiding Critical Errors"
+    },
+    {
+      "type": "paragraph",
+      "content": "A powerful tech stack is only as strong as its configuration. A flawed setup can silently corrupt the very foundation you’ve worked to establish. The most common and damaging errors are not technical bugs; they are failures of process and foresight. Avoid these critical mistakes."
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "**Mis-mapping Currency Accounts:** This is the most frequent and destructive error. In a rush to activate the bank feed, a user might map their Wise EUR balance to their primary Xero USD account. This single mistake creates a cascading reconciliation disaster, rendering your financial reporting meaningless. **The professional mandate is absolute precision:** Before you sync a single transaction, meticulously create and label a distinct bank account in Xero for *every single currency balance* you hold in Wise. EUR in Wise maps to your Xero EUR account. GBP to GBP. There are no shortcuts.",
+        "**Ignoring Transaction and Conversion Fees:** When a client pays a $10,000 invoice and you receive $9,960, it is tempting to simply reconcile the net amount. This is a critical mistake that leaks profit and inflates your tax liability. Wise fees are a tax-deductible cost of doing business. **Your process must be rigorous:** When a transaction from your Wise feed appears in Xero for reconciliation, use the \"split\" function. Match the gross invoice amount to your revenue account, then create a second line item that categorizes the Wise fee to your \"Bank Fees\" expense account. This disciplined step ensures your profitability analysis is sharp and your tax deductions are maximized.",
+        "**Confusing Automation with Abdication:** The purpose of the Wise and Xero integration is to deliver perfect, timely data into your accounting system. It does not do the accounting for you. Seeing transactions appear automatically can create a false sense of security. **This is the cornerstone of financial control:** Set aside dedicated, non-negotiable time each week to go through your Xero reconciliation dashboard. Match every deposit to its corresponding invoice. Properly categorize every withdrawal and fee. This consistent, human-in-the-loop oversight is what transforms a simple data feed into a bulletproof, audit-ready financial system."
+      ]
+    },
+    {
+      "type": "heading_3",
+      "content": "Conclusion: Build Your System, Not Just Connect Your Apps"
+    },
+    {
+      "type": "paragraph",
+      "content": "Moving beyond the mechanics of an integration allows you to focus on the strategic outcome: a state of unwavering control over your business. The goal is not a connected app; it is a meticulously architected system that serves as the central nervous system for your enterprise. This shift in mindset—from connector to architect—is what separates the perpetually stressed freelancer from the confident global CEO."
+    },
+    {
+      "type": "paragraph",
+      "content": "You are not just automating tasks; you are building an infrastructure. This infrastructure is your bulwark against compliance failures, cash flow uncertainty, and the gnawing feeling that you've missed something critical. The true return on this investment is measured in something far more valuable than saved hours. It is measured in cognitive freedom. When your financial data flows automatically and accurately, you free up mental and emotional energy to focus on your clients and your craft. You move from being a reactive bookkeeper to a forward-looking financial strategist for your own enterprise, secure in the knowledge that the engine room of your business is running flawlessly."
+    },
+    {
+      "type": "heading_3",
+      "content": "Frequently Asked Questions"
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "**What is the difference between Wise and ConnectWise?**\n    **Wise** is your **Global Treasury**—a financial technology platform for managing money across borders (sending, receiving, and holding multiple currencies). **ConnectWise** is your **Operations Engine**—a Professional Services Automation (PSA) platform for managing the work that generates revenue (projects, clients, and service tickets). One manages money; the other manages work.",
+        "**Is there a direct ConnectWise to Xero integration?**\n    No. To connect these two platforms, you must make a strategic choice: either use third-party middleware (like Zapier) for rapid deployment with less control, or build a custom solution using their APIs for total control and scalability.",
+        "**Do I need a Wise Business account to connect to Xero?**\n    Yes, absolutely. The direct bank feed integration is a specific feature of Wise Business accounts and is not available for personal accounts. Using a business account is a critical step in separating your personal and professional finances for liability protection and clean bookkeeping.",
+        "**Does the Wise integration handle different currencies in Xero?**\n    Yes, this is its core strength, but it requires that your Xero plan supports multiple currencies. During setup, you must meticulously \"map\" each currency balance in Wise (e.g., EUR, GBP) to a separate, corresponding bank account for that same currency within Xero."
+      ]
+    }
+  ],
+  "seo": {
+    "ogImage": "https://images.pexels.com/photos/8124228/pexels-photo-8124228.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "featuredImage": "https://images.pexels.com/photos/8124228/pexels-photo-8124228.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  }
+}

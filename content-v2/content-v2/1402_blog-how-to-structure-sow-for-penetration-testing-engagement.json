@@ -1,0 +1,455 @@
+{
+  "id": 1402,
+  "title": "How to Structure a 'Statement of Work' for a Penetration Testing Engagement",
+  "pillar": "Contracts & Legal",
+  "category": "Professional Deep Dives",
+  "primary_keyword": "sow for penetration testing",
+  "tags": [
+    "penetration testing sow",
+    "statement of work",
+    "cybersecurity contract",
+    "project scope",
+    "legal"
+  ],
+  "interlinking_suggestions": [
+    {
+      "id": 101,
+      "title": "Germany Freelance Visa: A Step-by-Step Application Guide",
+      "slug": "/blog/germany-freelance-visa-guide"
+    },
+    {
+      "id": 383,
+      "title": "How to Write a Scope of Work for a Web Development Project",
+      "slug": "/blog/how-to"
+    },
+    {
+      "id": 903,
+      "title": "A Guide to the Statement of Work (SOW) for a SaaS Development Project",
+      "slug": "/blog/guide-to-statement-of-work-sow-for-saas-development-project"
+    }
+  ],
+  "author": {
+    "name": "Elena Petrova",
+    "role": "Cross-Border Legal Analyst",
+    "bio": "An international business lawyer by trade, Elena breaks down the complexities of freelance contracts, corporate structures, and international liability. Her goal is to empower freelancers with the legal knowledge to operate confidently.",
+    "expertise": [
+      "legal",
+      "contracts",
+      "compliance",
+      "business structure",
+      "risk"
+    ],
+    "credentials": [
+      "J.D., International Law"
+    ],
+    "sameAs": [
+      "https://www.linkedin.com/in/elenapetrova-example"
+    ]
+  },
+  "reviewedBy": {
+    "name": "Priya Singh, Esq.",
+    "role": "International Business Attorney",
+    "bio": "Priya is an attorney specializing in international contract law for independent contractors. She ensures that the legal advice provided is accurate, actionable, and up-to-date with current regulations.",
+    "expertise": [
+      "legal",
+      "contracts",
+      "compliance",
+      "business structure",
+      "risk",
+      "IP"
+    ],
+    "credentials": [
+      "Juris Doctor (J.D.)",
+      "Member of the New York State Bar"
+    ],
+    "sameAs": [
+      "https://www.linkedin.com/in/priyasingh-example"
+    ]
+  },
+  "key_takeaways": [
+    "Mandate non-negotiable clauses for Authorization to Test and Limitation of Liability to legally shield your business from criminal charges and catastrophic financial risk.",
+    "Prevent scope creep and protect margins by defining explicit 'In-Scope,' 'Out-of-Scope,' and 'Assumptions' sections, enforced by a formal change control process.",
+    "Implement a milestone-based payment structure, such as 50% upfront, to secure client commitment, de-risk the engagement, and protect your cash flow.",
+    "Justify premium fees by clearly defining your methodology, Rules of Engagement, and distinct deliverables like a non-technical Executive Summary and a detailed Technical Report."
+  ],
+  "summary": "Many consultants view the Statement of Work (SOW) as a simple administrative task, exposing them to legal risks, scope creep, and payment disputes. To solve this, the document must be architected as a strategic asset: a legal \"Shield\" to mitigate risk, a \"Scalpel\" to define scope and ensure profitability, and a \"Signal\" to convey elite professionalism. By adopting this meticulous approach, consultants transform the SOW into their most effective tool for establishing control, clarity, and command over every engagement.",
+  "ai_overview_answer": "A bulletproof Statement of Work (SOW) for a penetration test is a strategic document that serves as a legal shield, a tool for defining scope, and a signal of professionalism. It must begin with foundational legal protections, including an explicit Authorization to Test, a Limitation of Liability to cap financial risk, and a mutual Confidentiality clause. To control the project, you must surgically define what is In-Scope, Out-of-Scope, and the core Assumptions for the engagement. Implement a formal change control process to prevent unpaid work and secure your cash flow with a milestone-based payment structure, such as 50% upfront. Further establish your expertise by detailing your testing methodology (e.g., PTES) and clear Rules of Engagement (ROE) like testing windows and source IPs. Finally, promise distinct deliverables, such as a non-technical Executive Summary for leadership and a detailed Technical Report for engineers. This approach transforms the SOW from an administrative task into a critical tool for control, clarity, and risk management.",
+  "disclaimer": "The information provided in this article is for informational purposes only and does not constitute legal or financial advice. You should consult with a qualified professional for advice tailored to your individual situation.",
+  "slug": "/blog/how-to-structure-sow-for-penetration-testing-engagement",
+  "canonicalUrl": "https://gruv.ai/blog/how-to-structure-sow-for-penetration-testing-engagement",
+  "source_urls": [],
+  "wordCount": 1339,
+  "readingTime": 7,
+  "seo": {
+    "meta_title": "Bulletproof SOW for Penetration Testing: A Pro's Guide",
+    "meta_description": "Your SOW for penetration testing is your most critical tool. Learn to architect a document that protects you legally, controls scope, and justifies your premium fees.",
+    "image_alt": "A guide on how to structure a statement of work for a penetration testing engagement",
+    "ogTitle": "Bulletproof SOW for Penetration Testing: A Pro's Guide",
+    "ogDescription": "Your SOW for penetration testing is your most critical tool. Learn to architect a document that protects you legally, controls scope, and justifies your premium fees.",
+    "twitterTitle": "Bulletproof SOW for Penetration Testing: A Pro's Guide",
+    "twitterDescription": "Your SOW for penetration testing is your most critical tool. Learn to architect a document that protects you legally, controls scope, and justifies your premium fees.",
+    "twitterCard": "summary_large_image",
+    "ogImage": "https://images.pexels.com/photos/5760878/pexels-photo-5760878.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "featuredImage": "https://images.pexels.com/photos/5760878/pexels-photo-5760878.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "twitterImage": ""
+  },
+  "dates": {
+    "published_date": "2023-10-27T10:00:00Z",
+    "last_updated": "2023-10-27T10:00:00Z"
+  },
+  "structured_data": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://gruv.ai/#organization",
+        "name": "Gruv",
+        "url": "https://gruv.ai",
+        "logo": "https://gruv.ai/logo.png"
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://gruv.ai/blog/how-to-structure-sow-for-penetration-testing-engagement#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://gruv.ai"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Blog",
+            "item": "https://gruv.ai/blog"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "How to Structure a 'Statement of Work' for a Penetration Testing Engagement"
+          }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "@id": "https://gruv.ai/blog/how-to-structure-sow-for-penetration-testing-engagement#howto",
+        "mainEntityOfPage": {
+          "@id": "https://gruv.ai/blog/how-to-structure-sow-for-penetration-testing-engagement"
+        },
+        "headline": "How to Structure a 'Statement of Work' for a Penetration Testing Engagement",
+        "description": "Many consultants view the Statement of Work (SOW) as a simple administrative task, exposing them to legal risks, scope creep, and payment disputes. To solve this, the document must be architected as a strategic asset: a legal \"Shield\" to mitigate risk, a \"Scalpel\" to define scope and ensure profitability, and a \"Signal\" to convey elite professionalism. By adopting this meticulous approach, consultants transform the SOW into their most effective tool for establishing control, clarity, and command over every engagement.",
+        "datePublished": "2023-10-27T10:00:00Z",
+        "dateModified": "2023-10-27T10:00:00Z",
+        "inLanguage": "en-US",
+        "articleSection": "Professional Deep Dives",
+        "isAccessibleForFree": true,
+        "author": {
+          "@type": "Person",
+          "name": "Elena Petrova",
+          "url": "https://www.linkedin.com/in/elenapetrova-example"
+        },
+        "publisher": {
+          "@id": "https://gruv.ai/#organization"
+        },
+        "step": [
+          {
+            "@type": "HowToSection",
+            "name": "Part 1: The Shield — Mitigating Catastrophic Risk",
+            "itemListElement": [
+              {
+                "@type": "HowToStep",
+                "name": "Authorization to Test: Your Legal Safe Harbor",
+                "text": "This is the cornerstone of your SOW and the single clause that legally distinguishes a sanctioned security assessment from a federal crime. It must contain explicit, unambiguous language stating that the client—identified by name and an authorized signatory—grants you permission to perform penetration testing activities on a specific list of targets during a defined testing window. Without this, every action you take is a potential violation of the Computer Fraud and Abuse Act (CFAA) or similar legislation, exposing you to catastrophic liability."
+              },
+              {
+                "@type": "HowToStep",
+                "name": "Confidentiality: The Two-Way Street of Trust",
+                "text": "Penetration testing exposes sensitive information on both sides: the client’s vulnerabilities and your proprietary methodologies. A robust, mutual confidentiality clause is essential. It must clearly define what constitutes \"Confidential Information,\" including their data and your report formats. Specify your obligations for handling this information, including the use of encryption for data at rest and in transit, and outline the secure process for its eventual destruction after the engagement concludes."
+              },
+              {
+                "@type": "HowToStep",
+                "name": "Data Ownership and Handling",
+                "text": "Pre-empt disputes over intellectual property. State explicitly that while the client owns the final report and its findings, you retain ownership of your underlying methodologies, scripts, and proprietary tools. Crucially, define the secure channel for delivering the final report (e.g., an encrypted portal) and set a strict timeline for your destruction of all client data post-engagement (e.g., 30 days). This minimizes your long-term risk and demonstrates a mature security posture."
+              },
+              {
+                "@type": "HowToStep",
+                "name": "Limitation of Liability and Indemnification: Your Financial Armor",
+                "text": "These two clauses work in tandem to protect your business from existential financial threats. They are the mark of a seasoned professional who understands that risk must be proportional to the engagement's value."
+              }
+            ]
+          },
+          {
+            "@type": "HowToSection",
+            "name": "Part 2: The Scalpel — Engineering Profitability and Control",
+            "itemListElement": [
+              {
+                "@type": "HowToStep",
+                "name": "Define Scope with Surgical Precision",
+                "text": "A vague scope is an open invitation for scope creep. To protect your margins and deliver exactly what the client needs, adopt a tripartite structure that leaves no room for interpretation."
+              },
+              {
+                "@type": "HowToStep",
+                "name": "Implement a Formal Change Control Process",
+                "text": "Neutralize the dreaded phrase, \"Could you just quickly look at...\" with a formal process. State clearly that any work requested outside the defined scope will be handled via a contract addendum. Outline the procedure: the new request will be evaluated, a formal addendum detailing the additional scope, timeline, and cost will be drafted, and it must be signed by the client before any new work commences. This isn't about being difficult; it's about being a disciplined professional."
+              },
+              {
+                "@type": "HowToStep",
+                "name": "Structure Payment Terms to Protect Your Cash Flow",
+                "text": "Waiting 30, 60, or 90 days for a single invoice is an unacceptable risk. A milestone-based payment structure protects your cash flow and ensures you are compensated as you deliver value. The 50/40/10 model is the professional standard."
+              }
+            ]
+          },
+          {
+            "@type": "HowToSection",
+            "name": "Part 3: The Signal — Justifying Your Premium Value",
+            "itemListElement": [
+              {
+                "@type": "HowToStep",
+                "name": "Detail Your Methodology and Scope Approach",
+                "text": "Never assume the client understands the complexity of your work. Differentiate yourself by specifying the testing approach and referencing industry-standard frameworks that govern your process, such as the Penetration Testing Execution Standard (PTES) or OSSTMM. This shows you follow a structured, repeatable methodology, not just an ad-hoc process."
+              },
+              {
+                "@type": "HowToStep",
+                "name": "Define Crystal-Clear Deliverables",
+                "text": "Clients buy outcomes, not activities. Articulate the value of your final report by promising two distinct, high-value documents: The Executive Summary and The Detailed Technical Report."
+              },
+              {
+                "@type": "HowToStep",
+                "name": "Establish Professional Rules of Engagement (ROE)",
+                "text": "The ROE demonstrates your maturity in managing operational risk. It’s a clear, scannable list that addresses the client’s biggest unspoken fears."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "body": [
+    {
+      "type": "heading_2",
+      "content": "From Document to Mandate: Architecting the Bulletproof SOW"
+    },
+    {
+      "type": "paragraph",
+      "content": "For most consultants, the Statement of Work is an administrative chore—a box to be checked before the “real work” begins. This is a strategic error. For the elite professional, the SOW is not a prelude to the engagement; it *is* the engagement, codified. It is the first, and most critical, deliverable."
+    },
+    {
+      "type": "paragraph",
+      "content": "A masterfully crafted SOW is a strategic asset that operates on three distinct levels. It is your **Shield**, a legal fortress against catastrophic risk. It is your **Scalpel**, a surgical tool for defining scope and engineering profitability. And it is your **Signal**, a clear message to the client that they have retained a strategic partner, not a commodity scanner."
+    },
+    {
+      "type": "paragraph",
+      "content": "This is your guide to transforming a simple document into your most effective tool for control, clarity, and command."
+    },
+    {
+      "type": "heading_3",
+      "content": "Part 1: The Shield — Mitigating Catastrophic Risk"
+    },
+    {
+      "type": "paragraph",
+      "content": "Before a single packet is sent, you must construct your legal fortress. These non-negotiable clauses are your defense against the nightmare scenarios of accidental service disruption, client disputes, and legal jeopardy. They are the foundation upon which a professional, trust-based engagement is built."
+    },
+    {
+      "type": "paragraph",
+      "content": "**Authorization to Test: Your Legal Safe Harbor**\nThis is the cornerstone of your SOW and the single clause that legally distinguishes a sanctioned security assessment from a federal crime. It must contain explicit, unambiguous language stating that the client—identified by name and an authorized signatory—grants you permission to perform penetration testing activities on a specific list of targets during a defined testing window. Without this, every action you take is a potential violation of the Computer Fraud and Abuse Act (CFAA) or similar legislation, exposing you to catastrophic liability."
+    },
+    {
+      "type": "paragraph",
+      "content": "**Confidentiality: The Two-Way Street of Trust**\nPenetration testing exposes sensitive information on both sides: the client’s vulnerabilities and your proprietary methodologies. A robust, mutual confidentiality clause is essential. It must clearly define what constitutes \"Confidential Information,\" including their data and your report formats. Specify your obligations for handling this information, including the use of encryption for data at rest and in transit, and outline the secure process for its eventual destruction after the engagement concludes."
+    },
+    {
+      "type": "paragraph",
+      "content": "**Data Ownership and Handling**\nPre-empt disputes over intellectual property. State explicitly that while the client owns the final report and its findings, you retain ownership of your underlying methodologies, scripts, and proprietary tools. Crucially, define the secure channel for delivering the final report (e.g., an encrypted portal) and set a strict timeline for your destruction of all client data post-engagement (e.g., 30 days). This minimizes your long-term risk and demonstrates a mature security posture."
+    },
+    {
+      "type": "paragraph",
+      "content": "**Limitation of Liability and Indemnification: Your Financial Armor**\nThese two clauses work in tandem to protect your business from existential financial threats. They are the mark of a seasoned professional who understands that risk must be proportional to the engagement's value."
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "**Limitation of Liability (LoL):** You are an expert, not an insurance policy for the client's entire enterprise. This clause caps your potential financial liability for any direct damages arising from the engagement, typically to the total fees paid under the agreement. It prevents a scenario where a simple mistake on a $15,000 project could lead to a multi-million dollar lawsuit for alleged business interruption.",
+        "**Indemnification:** This protects you from third-party lawsuits resulting from your work under the client's direction. For instance, if the client provides an incorrect IP address that belongs to another company, and that company sues you, this clause ensures your client covers the legal defense."
+      ]
+    },
+    {
+      "type": "table",
+      "header": [
+        "Clause",
+        "Primary Function for the Consultant",
+        "A \"Nightmare Scenario\" it Prevents"
+      ],
+      "rows": [
+        [
+          "**Authorization**",
+          "Provides legal permission to perform the test.",
+          "Being charged with a crime for unauthorized access."
+        ],
+        [
+          "**Limitation of Liability**",
+          "Caps your direct financial risk to the contract's value.",
+          "A $15,000 engagement leading to a $2 million lawsuit."
+        ],
+        [
+          "**Indemnification**",
+          "Protects you from lawsuits by third parties.",
+          "Being sued by a cloud provider for testing the wrong asset."
+        ]
+      ]
+    },
+    {
+      "type": "heading_3",
+      "content": "Part 2: The Scalpel — Engineering Profitability and Control"
+    },
+    {
+      "type": "paragraph",
+      "content": "With your legal defenses established, you can pivot from protection to profitability. The SOW now becomes a surgical tool used to carve out a precise engagement, excise ambiguity, and shut down the unpaid work that erodes your margins. This is how you seize and maintain control, ensuring every minute of your expertise is respected and compensated."
+    },
+    {
+      "type": "paragraph",
+      "content": "**Define Scope with Surgical Precision**\nA vague scope is an open invitation for scope creep. To protect your margins and deliver exactly what the client needs, adopt a tripartite structure that leaves no room for interpretation."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Scope Category",
+        "Purpose & Examples"
+      ],
+      "rows": [
+        [
+          "**In-Scope**",
+          "The definitive, exhaustive list of what you *will* test. Be explicit. Instead of \"the web app,\" write \"The web application hosted at app.client.com, including all subpages and the corresponding REST API at api.client.com.\" List every target IP, domain, and network segment."
+        ],
+        [
+          "**Out-of-Scope**",
+          "Your primary defense against unpaid work. Explicitly state what you will *not* touch. Common examples include: \"Third-party vendor systems (e.g., Salesforce, Zendesk),\" \"Production servers during business hours,\" or \"Denial-of-Service (DoS) testing.\""
+        ],
+        [
+          "**Assumptions**",
+          "The conditions that must be met by the client for the scope, timeline, and price to remain valid. This codifies your dependencies. Examples: \"Client will provide stable, functional access to the test environment,\" or \"Client will provide necessary credentials for Grey Box testing within 24 hours of project kickoff.\""
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "**Implement a Formal Change Control Process**\nNeutralize the dreaded phrase, \"Could you just quickly look at...\" with a formal process. State clearly that any work requested outside the defined scope will be handled via a contract addendum. Outline the procedure: the new request will be evaluated, a formal addendum detailing the additional scope, timeline, and cost will be drafted, and it must be signed by the client before any new work commences. This isn't about being difficult; it's about being a disciplined professional."
+    },
+    {
+      "type": "paragraph",
+      "content": "**Structure Payment Terms to Protect Your Cash Flow**\nWaiting 30, 60, or 90 days for a single invoice is an unacceptable risk. A milestone-based payment structure protects your cash flow and ensures you are compensated as you deliver value. The 50/40/10 model is the professional standard."
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "**50% Upfront:** Due upon signing the SOW. This confirms the client's commitment, secures their slot in your schedule, and covers initial setup costs. No work begins until this is received.",
+        "**40% Upon Delivery of Draft Report:** This crucial milestone links the largest subsequent payment to your primary deliverable, ensuring you are compensated for the core technical work before potentially lengthy remediation discussions.",
+        "**10% Upon Project Completion:** The final payment is due after the debriefing call or delivery of the final revised report, cleanly closing out the engagement."
+      ]
+    },
+    {
+      "type": "table",
+      "header": [
+        "Payment Structure",
+        "Consultant's Cash Flow Risk",
+        "Client Commitment Signal",
+        "Likelihood of Payment Disputes"
+      ],
+      "rows": [
+        [
+          "**50-40-10 Milestone**",
+          "**Low**",
+          "**High** (Requires immediate investment)",
+          "**Low** (Tied to clear deliverables)"
+        ],
+        [
+          "**100% on Completion**",
+          "**Very High**",
+          "**Low** (No upfront investment)",
+          "**High** (Single point of failure)"
+        ]
+      ]
+    },
+    {
+      "type": "heading_3",
+      "content": "Part 3: The Signal — Justifying Your Premium Value"
+    },
+    {
+      "type": "paragraph",
+      "content": "Your SOW is the first deliverable the client receives. A generic template signals a commodity provider. A clear, strategic, and professional SOW signals an elite consultant and justifies your premium fees before the engagement begins."
+    },
+    {
+      "type": "paragraph",
+      "content": "**Detail Your Methodology and Scope Approach**\nNever assume the client understands the complexity of your work. Differentiate yourself by specifying the testing approach and referencing industry-standard frameworks that govern your process, such as the **Penetration Testing Execution Standard (PTES)** or **OSSTMM**. This shows you follow a structured, repeatable methodology, not just an ad-hoc process."
+    },
+    {
+      "type": "paragraph",
+      "content": "Critically, the way you define scope must align with this methodology. The distinction between a Black Box and White Box SOW lives in the **In-Scope** and **Assumptions** sections."
+    },
+    {
+      "type": "table",
+      "header": [
+        "SOW Section",
+        "Black Box Test",
+        "White Box Test"
+      ],
+      "rows": [
+        [
+          "**In-Scope Definition**",
+          "A simple list of external targets (IPs, URLs).",
+          "A detailed list of components (code repos, user roles, APIs, architectural diagrams)."
+        ],
+        [
+          "**Assumptions Section**",
+          "Minimal; primarily states that **no** internal information will be provided.",
+          "Extensive; details client responsibilities for providing timely, accurate, and stable information and environments."
+        ],
+        [
+          "**Primary Risk**",
+          "Misinterpreting the external boundary of the target.",
+          "Delays caused by the client failing to provide necessary information or a stable environment."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "**Define Crystal-Clear Deliverables**\nClients buy outcomes, not activities. Articulate the value of your final report by promising two distinct, high-value documents:"
+    },
+    {
+      "type": "list",
+      "style": "ordered",
+      "items": [
+        "**The Executive Summary:** A concise, non-technical report for leadership, translating technical findings into the language of business risk, focusing on financial impact, reputational damage, and strategic recommendations.",
+        "**The Detailed Technical Report:** A comprehensive blueprint for engineering teams, containing everything needed to reproduce and remediate findings, including risk ratings, step-by-step instructions, and actionable guidance."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "**Establish Professional Rules of Engagement (ROE)**\nThe ROE demonstrates your maturity in managing operational risk. It’s a clear, scannable list that addresses the client’s biggest unspoken fears."
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "**Testing Windows & Source IPs:** State the exact approved hours for testing (e.g., \"9:00 AM - 5:00 PM CET only\") and specify the static IP addresses you will test from. This allows their security team to differentiate your traffic from a genuine attack.",
+        "**Communication & Escalation:** Name the designated points of contact on both sides for technical updates and provide a clear protocol for immediate communication if a critical vulnerability is discovered.",
+        "**Emergency Stop Procedures:** Outline a clear process for how either party can immediately and safely halt the test if an unexpected issue arises."
+      ]
+    },
+    {
+      "type": "heading_3",
+      "content": "Conclusion: Your SOW Is Your Standard"
+    },
+    {
+      "type": "paragraph",
+      "content": "The Statement of Work is far more than a formality. It is the foundational document that architects the success of an engagement. By wielding it as a shield, a scalpel, and a signal, you transform it from a source of administrative friction into an engine for control."
+    },
+    {
+      "type": "paragraph",
+      "content": "This meticulous approach resolves the business anxieties of risk, scope, and payment upfront, allowing you to dedicate your full intellectual and technical firepower to what you do best: delivering exceptional security expertise. A bulletproof SOW is your license to operate with confidence, a clear indicator of your professionalism, and the ultimate tool for building a resilient, profitable, and respected consulting practice."
+    }
+  ],
+  "ogImage": "https://images.pexels.com/photos/5760878/pexels-photo-5760878.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "featuredImage": "https://images.pexels.com/photos/5760878/pexels-photo-5760878.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+}

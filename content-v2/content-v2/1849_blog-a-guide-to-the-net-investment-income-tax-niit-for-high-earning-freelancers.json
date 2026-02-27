@@ -1,0 +1,495 @@
+{
+  "id": 1849,
+  "title": "A Guide to the 'Net Investment Income Tax' (NIIT) for High-Earning Freelancers",
+  "pillar": "Tax Residency & Compliance",
+  "category": "US-Specific Taxes",
+  "primary_keyword": "niit for freelancers",
+  "tags": [
+    "net investment income tax",
+    "niit",
+    "form 8960",
+    "high-income tax",
+    "investment income"
+  ],
+  "interlinking_suggestions": [
+    {
+      "id": 1,
+      "title": "The Ultimate Digital Nomad Tax Survival Guide for 2025",
+      "slug": "/blog/digital-nomad-tax-guide"
+    },
+    {
+      "id": 14,
+      "title": "Do I Have to Pay State Taxes While Living Abroad as a Digital Nomad?",
+      "slug": "/blog/state-taxes-for-digital-nomads"
+    }
+  ],
+  "author": {
+    "name": "Ben Carter",
+    "role": "US Expat Financial Advisor (CFA)",
+    "bio": "A certified financial planner specializing in the unique challenges faced by US citizens abroad. Ben's articles provide actionable advice on everything from FBAR and FATCA compliance to retirement planning for expats.",
+    "expertise": [
+      "US expat",
+      "tax",
+      "FBAR",
+      "FEIE",
+      "retirement",
+      "investing"
+    ],
+    "credentials": [
+      "CFA Charterholder",
+      "Certified Financial Planner (CFP)"
+    ],
+    "sameAs": [
+      "https://www.linkedin.com/in/bencarter-example"
+    ]
+  },
+  "reviewedBy": {
+    "name": "Dr. Alistair Finch",
+    "role": "International Tax Strategist",
+    "bio": "With a Ph.D. in Economics and over 15 years at a Big Four accounting firm, Alistair specializes in demystifying cross-border tax law for independent professionals. He focuses on risk mitigation and long-term financial planning.",
+    "expertise": [
+      "tax",
+      "compliance",
+      "finance",
+      "legal",
+      "FBAR",
+      "FEIE",
+      "residency"
+    ],
+    "credentials": [
+      "Ph.D., Economics",
+      "Certified Public Accountant (CPA)"
+    ],
+    "sameAs": [
+      "https://www.linkedin.com/in/alistairfinch-example"
+    ]
+  },
+  "key_takeaways": [
+    "Prove your active involvement in all business ventures by meticulously documenting your hours to shield that income from the 3.8% Net Investment Income Tax.",
+    "Aggressively fund a Solo 401(k) or SEP IRA to lower your Modified Adjusted Gross Income (MAGI) below the NIIT thresholds, potentially eliminating the tax entirely.",
+    "For consistent high earnings, consider an S-Corp election to separate your income into a reasonable salary and shareholder distributions, both of which are exempt from the NIIT.",
+    "Utilize tax-loss harvesting to strategically offset capital gains, directly reducing your net investment income and minimizing your NIIT liability."
+  ],
+  "summary": "For successful solo professionals, the 3.8% Net Investment Income Tax (NIIT) poses a significant threat to wealth by taxing passive income above certain earning thresholds. The core advice is to build a strategic \"firewall\" by using the principle of \"material participation\" to clearly distinguish protected, active business income from vulnerable, passive investment income. By proactively documenting your work and leveraging tools like specialized retirement accounts, you can gain confident control over your tax liability, legally shield your earnings from the surtax, and preserve your wealth.",
+  "ai_overview_answer": "To protect active business income from the 3.8% Net Investment Income Tax (NIIT), solo professionals must prove they \"materially participate\" in their business activities. This surtax only applies to passive investment income for individuals whose Modified Adjusted Gross Income (MAGI) exceeds $200,000 (single) or $250,000 (married filing jointly). The primary strategy is to meet an IRS material participation test, such as working more than 500 hours per year on a venture, which classifies its income as active and exempt from the NIIT. It is crucial to document this involvement with time logs and project records to create a clear firewall between active and passive income streams. Proactive tactics to lower NIIT exposure include maximizing contributions to retirement accounts like a Solo 401(k) or SEP IRA to reduce your MAGI. Additionally, using tax-loss harvesting to offset capital gains and leveraging a Health Savings Account (HSA) can further reduce your taxable income. For high earners, electing to be taxed as an S-Corporation allows income to be separated into a reasonable salary and shareholder distributions, both of which are shielded from the NIIT.",
+  "disclaimer": null,
+  "slug": "/blog/a-guide-to-the-net-investment-income-tax-niit-for-high-earning-freelancers",
+  "canonicalUrl": "https://gruv.ai/blog/a-guide-to-the-net-investment-income-tax-niit-for-high-earning-freelancers",
+  "source_urls": [],
+  "wordCount": 1383,
+  "readingTime": 7,
+  "seo": {
+    "meta_title": "NIIT for Freelancers: A CEO's Guide to Avoiding the Tax",
+    "meta_description": "High-earning solo pro? Understand the NIIT for freelancers and how to build a 'firewall' to protect your income from the 3.8% surtax. Get the CEO's playbook.",
+    "image_alt": "A Guide to the Net Investment Income Tax (NIIT) for High-Earning Freelancers",
+    "ogTitle": "NIIT for Freelancers: A CEO's Guide to Avoiding the Tax",
+    "ogDescription": "High-earning solo pro? Understand the NIIT for freelancers and how to build a 'firewall' to protect your income from the 3.8% surtax. Get the CEO's playbook.",
+    "twitterTitle": "NIIT for Freelancers: A CEO's Guide to Avoiding the Tax",
+    "twitterDescription": "High-earning solo pro? Understand the NIIT for freelancers and how to build a 'firewall' to protect your income from the 3.8% surtax. Get the CEO's playbook.",
+    "twitterCard": "summary_large_image",
+    "ogImage": "https://images.pexels.com/photos/3194521/pexels-photo-3194521.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "featuredImage": "https://images.pexels.com/photos/3194521/pexels-photo-3194521.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "twitterImage": ""
+  },
+  "dates": {
+    "published_date": "2024-05-14T12:00:00Z",
+    "last_updated": "2024-05-14T12:00:00Z"
+  },
+  "structured_data": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://gruv.ai/#organization",
+        "name": "Gruv",
+        "url": "https://gruv.ai",
+        "logo": "https://gruv.ai/logo.png"
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://gruv.ai/blog/a-guide-to-the-net-investment-income-tax-niit-for-high-earning-freelancers#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://gruv.ai"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Blog",
+            "item": "https://gruv.ai/blog"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "A Guide to the 'Net Investment Income Tax' (NIIT) for High-Earning Freelancers"
+          }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "@id": "https://gruv.ai/blog/a-guide-to-the-net-investment-income-tax-niit-for-high-earning-freelancers#howto",
+        "name": "A Guide to the 'Net Investment Income Tax' (NIIT) for High-Earning Freelancers",
+        "description": "For successful solo professionals, the 3.8% Net Investment Income Tax (NIIT) poses a significant threat to wealth by taxing passive income above certain earning thresholds. The core advice is to build a strategic \"firewall\" by using the principle of \"material participation\" to clearly distinguish protected, active business income from vulnerable, passive investment income. By proactively documenting your work and leveraging tools like specialized retirement accounts, you can gain confident control over your tax liability, legally shield your earnings from the surtax, and preserve your wealth.",
+        "datePublished": "2024-05-14T12:00:00Z",
+        "dateModified": "2024-05-14T12:00:00Z",
+        "inLanguage": "en-US",
+        "isAccessibleForFree": true,
+        "articleSection": "US-Specific Taxes",
+        "author": {
+          "@type": "Person",
+          "name": "Ben Carter",
+          "url": "https://www.linkedin.com/in/bencarter-example"
+        },
+        "publisher": {
+          "@id": "https://gruv.ai/#organization"
+        },
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://gruv.ai/blog/a-guide-to-the-net-investment-income-tax-niit-for-high-earning-freelancers"
+        },
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Understanding the NIIT: The 3.8% Surtax on Investment Income",
+            "text": "Before building your defense, you must understand the challenge. The NIIT is a 3.8% surtax layered on top of your existing income taxes. It specifically targets high-earners with significant investment income. You only need to address this tax if your Modified Adjusted Gross Income (MAGI) exceeds certain thresholds. If your MAGI is below your threshold, you will not owe the NIIT. If you are over the threshold, the tax applies to the lesser of your total net investment income or the amount by which your MAGI exceeds the threshold. The central task is determining which of your income streams are vulnerable. The NIIT does not apply to your active freelancing income. All calculations are finalized on IRS Form 8960."
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Building Your Firewall: The Principle of Material Participation",
+            "text": "The real strategic work lies in building a clear firewall between the income you actively earn and the wealth your money generates. Your most robust defense is the principle of 'material participation.' This is the IRS's formal test to determine if you were involved in a business activity on a 'regular, continuous, and substantial basis.' If the answer is yes, the income is active and shielded from the NIIT. To apply this principle, categorize every dollar you earn into an 'Income Portfolio' of Active, Passive, or Gray Zone. For any income in the 'Gray Zone,' the burden of proof is on you. Maintain clear, contemporaneous records like time logs, project records, and digital footprints to validate your active role."
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Fortifying Your Firewall: Proactive Strategies to Manage Taxable Income",
+            "text": "Implement proactive strategies that directly reduce your exposure to the NIIT by lowering either your MAGI or your net investment income. Strategy 1: Lower Your MAGI with a 'Super-Charged' Retirement Account like a Solo 401(k) or SEP IRA. Strategy 2: Use Tax-Loss Harvesting as an Offensive Move to offset capital gains. Strategy 3: Deploy Strategic Timing for Rising Incomes by accelerating contributions or timing asset sales. Strategy 4: Leverage a Health Savings Account (HSA) to further reduce your MAGI."
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Advanced Architecture: How an S-Corp Can Shield Your Profits",
+            "text": "For some high-earning freelancers, electing to be taxed as an S-Corporation offers sophisticated control over how your income is characterized. The core advantage lies in separating your income into a reasonable salary and shareholder distributions. Your salary is for the work you actively perform and is exempt from the NIIT. The company's remaining profits can be paid as distributions, which are also generally not subject to the NIIT. This strategy hinges entirely on paying yourself reasonable compensation. An S-Corp is a significant step that requires professional guidance and is best considered if your net income is stable and consistently exceeds $80,000 per year."
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://gruv.ai/blog/a-guide-to-the-net-investment-income-tax-niit-for-high-earning-freelancers#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Is my core freelancer income subject to NIIT?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. Income you earn from actively providing services is trade or business income, subject to self-employment taxes, not the NIIT. The tax applies only to your passive income streams, such as investments or side businesses in which you do not materially participate."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How can freelancers legally avoid the NIIT?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "You can legally minimize or avoid the NIIT by proactively managing your income. Key tactics include maximizing pre-tax retirement contributions, strategically harvesting investment losses, structuring your business as an S-Corp, and investing in tax-exempt assets like municipal bonds."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is the difference between Self-Employment Tax and NIIT?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "They are separate taxes on different types of income. You will never pay both on the same dollar. Self-Employment Tax applies to net earnings from your active trade or business. The Net Investment Income Tax (NIIT) is a 3.8% surtax on passive income such as interest, dividends, and capital gains for high-earners."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Does an S-Corp truly protect a freelancer from NIIT?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "An S-Corp is a powerful tool, not a blanket exemption. It protects your reasonable salary (active income) and shareholder distributions (not investment income) from the NIIT. However, if you eventually sell your S-Corp stock for a gain, that gain *is* considered investment income and could be subject to the NIIT."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is included in Net Investment Income for a freelancer?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "It is any income that falls outside your primary, active work. Think of it as money your money earns, not money your labor earns. This includes interest, dividends, capital gains from selling assets (stocks, crypto, real estate), royalties, and income from any business where you do not materially participate."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "body": [
+    {
+      "type": "heading_2",
+      "content": "The NIIT Firewall: A CEO's Playbook for Structuring Your \"Business-of-One\""
+    },
+    {
+      "type": "paragraph",
+      "content": "For the successful solo professional, tax anxiety often stems from a single, critical intersection: the point where the income you earn through effort meets the wealth generated by your capital. The Net Investment Income Tax (NIIT) lives at this crossroads. Mastering it requires a shift in mindset—from reactive compliance to proactive architectural design."
+    },
+    {
+      "type": "paragraph",
+      "content": "This playbook provides the framework for building your \"NIIT Firewall,\" a strategic structure designed to protect your active business income from this 3.8% surtax. It begins with a single, powerful principle that cuts through the complexity: **material participation**. Understanding this concept is the key to moving from a state of uncertainty to one of confident control."
+    },
+    {
+      "type": "heading_3",
+      "content": "Understanding the NIIT: The 3.8% Surtax on Investment Income"
+    },
+    {
+      "type": "paragraph",
+      "content": "Before building your defense, you must understand the challenge. The NIIT is a 3.8% surtax layered on top of your existing income taxes. It specifically targets high-earners with significant investment income."
+    },
+    {
+      "type": "paragraph",
+      "content": "You only need to address this tax if your Modified Adjusted Gross Income (MAGI) exceeds certain thresholds. These thresholds are not indexed for inflation, making them a permanent fixture in your financial planning:"
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "**$200,000** for Single or Head of Household filers",
+        "**$250,000** for those Married Filing Jointly",
+        "**$125,000** for those Married Filing Separately"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "If your MAGI is below your threshold, you will not owe the NIIT, regardless of your investment income. If you are over the threshold, the tax applies to the *lesser* of two amounts:\n1.  Your total net investment income.\n2.  The amount by which your MAGI exceeds the threshold."
+    },
+    {
+      "type": "paragraph",
+      "content": "For example, a single freelancer with a MAGI of $240,000 and net investment income of $20,000 would pay the tax on the smaller figure. Here, the MAGI excess is $40,000 ($240k - $200k), but the investment income is only $20,000. The NIIT would be $760 (3.8% of $20,000)."
+    },
+    {
+      "type": "paragraph",
+      "content": "The central task is determining which of your income streams are vulnerable. The NIIT does **not** apply to your active freelancing income. This is the foundational rule of your firewall."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Vulnerable to NIIT (Net Investment Income)",
+        "Exempt from NIIT (Generally Not Investment Income)"
+      ],
+      "rows": [
+        [
+          "Interest (taxable), Dividends, and Capital Gains",
+          "Wages and most Self-Employment Income"
+        ],
+        [
+          "Income from rental and royalty properties",
+          "Withdrawals from qualified retirement plans (401(k)s, IRAs)"
+        ],
+        [
+          "Income from a business where you are a *passive* participant",
+          "Social Security benefits and Unemployment compensation"
+        ],
+        [
+          "The taxable portion of non-qualified annuities",
+          "Tax-exempt interest (e.g., from municipal bonds)"
+        ],
+        [
+          "Net gain from selling property not held in an active trade",
+          "The excluded portion of gain from the sale of a principal residence"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "All calculations are finalized on IRS Form 8960, Net Investment Income Tax. View this form not as a burden, but as your official worksheet—a structured guide that demystifies the process."
+    },
+    {
+      "type": "heading_3",
+      "content": "Building Your Firewall: The Principle of Material Participation"
+    },
+    {
+      "type": "paragraph",
+      "content": "The real strategic work happens long before you see Form 8960. It lies in building a clear firewall between the income you actively earn and the wealth your money generates. Your most robust defense is the principle of **\"material participation.\"**"
+    },
+    {
+      "type": "paragraph",
+      "content": "This is the IRS's formal test to determine if you were involved in a business activity on a \"regular, continuous, and substantial basis.\" If the answer is yes, the income is active, subject to self-employment tax, and shielded from the NIIT. If no, the income is passive and vulnerable."
+    },
+    {
+      "type": "paragraph",
+      "content": "For a \"Business-of-One\" CEO, qualification often boils down to meeting one of these key tests:"
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "**The 500-Hour Test:** You participated in the activity for more than 500 hours during the year.",
+        "**The Substantially All Participation Test:** Your participation constituted essentially all of the work for that venture.",
+        "**The 100-Hour Test:** You participated for more than 100 hours, and no one else worked more than you."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "To apply this principle, categorize every dollar you earn into an \"Income Portfolio.\""
+    },
+    {
+      "type": "table",
+      "header": [
+        "Category",
+        "Income Examples",
+        "NIIT Status"
+      ],
+      "rows": [
+        [
+          "**Category 1: Active**",
+          "Client project fees, consulting retainers, direct service income.",
+          "**Protected.** This is income from your material participation."
+        ],
+        [
+          "**Category 2: Passive**",
+          "Stock dividends, interest, capital gains, royalties, rental income (if managed by others).",
+          "**Vulnerable.** This is the classic definition of investment income."
+        ],
+        [
+          "**Category 3: Gray Zone**",
+          "Revenue from an online course, a SaaS side-project, or an affiliate website.",
+          "**Depends on Participation.** Ask: Am I meeting one of the material participation tests for *this specific venture*?"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "For any income in the \"Gray Zone,\" the burden of proof is on you. This is where documentation becomes your unshakeable defense. Maintain clear, contemporaneous records that validate your active role."
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "**Time Logs:** Use a simple spreadsheet or a dedicated app to track hours spent on each business activity, especially those in the Gray Zone.",
+        "**Project Records:** Retain contracts, statements of work, and client communications that prove your hands-on involvement.",
+        "**Digital Footprints:** Your email, Slack, or project management history can serve as a powerful log of your day-to-day operational decisions."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "This isn't just paperwork; it's the material used to construct a fortress of proof around your active income."
+    },
+    {
+      "type": "heading_3",
+      "content": "Fortifying Your Firewall: Proactive Strategies to Manage Taxable Income"
+    },
+    {
+      "type": "paragraph",
+      "content": "With a clear firewall established, you can shift from a defensive posture to an offensive one. This means implementing proactive strategies that directly reduce your exposure to the NIIT by lowering either your MAGI or your net investment income."
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "**Strategy 1: Lower Your MAGI with a \"Super-Charged\" Retirement Account.**\n    This is the most direct weapon in your arsenal. As a freelancer, you have access to specialized retirement accounts. Contributions are typically tax-deductible, directly reducing your MAGI.\n    *   **Solo 401(k):** Allows contributions as both \"employee\" (up to $23,000 in 2024) and \"employer\" (up to 25% of compensation), with a total combined maximum of $69,000 for 2024.\n    *   **SEP IRA:** A simpler alternative where you contribute as the \"employer,\" up to 25% of compensation, with the same $69,000 maximum for 2024.\n    Maximizing these can potentially push your MAGI below the NIIT thresholds, rendering the tax moot for the year.",
+        "**Strategy 2: Use Tax-Loss Harvesting as an Offensive Move.**\n    This strategy directly attacks your net investment income. By strategically selling investments that have lost value, you realize a capital loss. These losses can offset capital gains elsewhere in your portfolio. If losses exceed gains, you can use up to $3,000 to offset ordinary income. This transforms market downturns into valuable opportunities to reduce your current tax liability.",
+        "**Strategy 3: Deploy Strategic Timing for Rising Incomes.**\n    If you project your income will cross an NIIT threshold next year, act in the final quarter of the current year.\n    *   **Accelerate Contributions:** Open and fund your Solo 401(k) or SEP IRA before December 31st to maximize your MAGI reduction for the current year.\n    *   **Time Asset Sales:** If you plan to sell a significant appreciated asset, consider realizing the gain in the current year while your MAGI is still below the threshold, shielding it from the additional 3.8% tax.",
+        "**Strategy 4: Leverage a Health Savings Account (HSA).**\n    If you have a high-deductible health plan, an HSA is another powerful tool for reducing your MAGI. For 2024, individuals can contribute up to $4,150 and families up to $8,300. Contributions are tax-deductible, funds grow tax-free, and withdrawals for qualified medical expenses are also tax-free—a triple advantage that fortifies your financial position."
+      ]
+    },
+    {
+      "type": "heading_3",
+      "content": "Advanced Architecture: How an S-Corp Can Shield Your Profits"
+    },
+    {
+      "type": "paragraph",
+      "content": "For some high-earning freelancers, the next level of strategic defense involves the business structure itself. Electing to be taxed as an S-Corporation adds complexity but offers sophisticated control over how your income is characterized."
+    },
+    {
+      "type": "paragraph",
+      "content": "The core advantage lies in separating your income into a **reasonable salary** and **shareholder distributions**. Your salary is for the work you actively perform. It's subject to payroll taxes but is *not* investment income and is therefore exempt from the NIIT. The company's remaining profits can be paid as distributions, which are generally not subject to either payroll taxes or the NIIT."
+    },
+    {
+      "type": "paragraph",
+      "content": "This strategy hinges entirely on **reasonable compensation**. The IRS requires you to pay yourself a salary that is appropriate for your services, industry, and experience. Setting an artificially low salary is a red flag for an audit. As Paul Hamann, Founder of RCReports, notes, \"When your tax or financial advisor helps you determine your Reasonable Compensation figure... they are simply following IRS and court guidelines, ensuring you are paying the least amount of tax legally owed, and not a penny more.\""
+    },
+    {
+      "type": "paragraph",
+      "content": "An S-Corp is not a universal solution. It is a significant step that requires professional guidance and is best considered if:"
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "Your net income consistently exceeds $80,000 per year.",
+        "Your income is stable enough to support a regular payroll.",
+        "You are prepared for added administrative complexity (payroll, separate tax returns).",
+        "You are committed to meticulous bookkeeping to maintain the clean separation of funds."
+      ]
+    },
+    {
+      "type": "heading_3",
+      "content": "Frequently Asked Questions"
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "**Is my core freelancer income subject to NIIT?**\n    No. Income you earn from actively providing services is trade or business income, subject to self-employment taxes, not the NIIT. The tax applies only to your passive income streams, such as investments or side businesses in which you do not materially participate.",
+        "**How can freelancers legally avoid the NIIT?**\n    You can legally minimize or avoid the NIIT by proactively managing your income. Key tactics include maximizing pre-tax retirement contributions, strategically harvesting investment losses, structuring your business as an S-Corp, and investing in tax-exempt assets like municipal bonds."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "**What is the difference between Self-Employment Tax and NIIT?**\nThey are separate taxes on different types of income. You will never pay both on the same dollar."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Feature",
+        "Self-Employment Tax",
+        "Net Investment Income Tax (NIIT)"
+      ],
+      "rows": [
+        [
+          "**What It Is**",
+          "Social Security and Medicare taxes for the self-employed.",
+          "A 3.8% surtax on investment income for high-earners."
+        ],
+        [
+          "**What It Applies To**",
+          "Net earnings from your **active** trade or business.",
+          "Passive income such as interest, dividends, and capital gains."
+        ],
+        [
+          "**Who Pays It**",
+          "Self-employed individuals with net earnings over $400.",
+          "Individuals with MAGI over the $200k/$250k thresholds."
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "**Does an S-Corp truly protect a freelancer from NIIT?**\n    An S-Corp is a powerful tool, not a blanket exemption. It protects your reasonable salary (active income) and shareholder distributions (not investment income) from the NIIT. However, if you eventually sell your S-Corp stock for a gain, that gain *is* considered investment income and could be subject to the NIIT.",
+        "**What is included in Net Investment Income for a freelancer?**\n    It is any income that falls outside your primary, active work. Think of it as money your money earns, not money your labor earns. This includes interest, dividends, capital gains from selling assets (stocks, crypto, real estate), royalties, and income from any business where you do not materially participate."
+      ]
+    },
+    {
+      "type": "heading_3",
+      "content": "From Anxiety to Control: You Are the Architect"
+    },
+    {
+      "type": "paragraph",
+      "content": "Mastering the NIIT is a mindset shift from anxious rule-follower to confident architect. It is not a penalty for success; it is a strategic business challenge that you can manage with precision and foresight. As the CEO of your \"Business-of-One,\" you are the designer of its financial structure. This architecture rests on three foundational pillars:"
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "**The Pillar of Clarity:** Meticulously categorize your income, drawing a bright line between your active work and your passive investments. This clarity, backed by diligent documentation, is your first line of defense.",
+        "**The Pillar of Proactive Structure:** Use the right tools to your advantage *before* tax becomes a pressing issue. Fund a Solo 401(k) to lower your MAGI. Use tax-loss harvesting to reduce your net investment income. These are not reactive fixes; they are deliberate, structural decisions.",
+        "**The Pillar of Intentional Design:** For those whose success warrants it, consciously evolve your business entity. An S-Corp election is the ultimate architectural act, creating a formal distinction between your role as an employee and your role as an owner, transforming your practice into a durable financial entity."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "Ultimately, every financial decision—from how you classify a side project to the type of retirement account you open—is a tool. By making these conscious, informed choices, you seize control, protect the rewards of your work, and continue to build your wealth with absolute confidence."
+    }
+  ],
+  "ogImage": "https://images.pexels.com/photos/3194521/pexels-photo-3194521.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "featuredImage": "https://images.pexels.com/photos/3194521/pexels-photo-3194521.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+}

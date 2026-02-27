@@ -1,0 +1,427 @@
+{
+  "id": 2078,
+  "title": "A guide to creating 'Interfaces' in Airtable for client portals",
+  "pillar": "Business Structure & Compliance",
+  "category": "Tech Stack Deep Dives",
+  "primary_keyword": "airtable interfaces for client portals",
+  "tags": [
+    "airtable interfaces",
+    "client portal",
+    "no-code",
+    "project reporting",
+    "client management"
+  ],
+  "interlinking_suggestions": [
+    {
+      "id": 90,
+      "title": "Value-Based Pricing: A Freelancer's Guide",
+      "slug": "/blog/value-based-pricing-guide"
+    },
+    {
+      "id": 735,
+      "title": "How to Write a Follow-Up Email That Closes the Deal",
+      "slug": "/blog/how-to-write-a-follow-up-email-that-closes-the-deal"
+    },
+    {
+      "id": 882,
+      "title": "How to Create a Client Portal in Notion",
+      "slug": "/blog/how-to-create-a-client-portal-in-notion"
+    }
+  ],
+  "author": {
+    "name": "Marcus Thorne",
+    "role": "Productivity & Operations Expert",
+    "bio": "A former tech COO turned 'Business-of-One' consultant, Marcus is obsessed with efficiency. He writes about optimizing workflows, leveraging technology, and building resilient systems for solo entrepreneurs.",
+    "expertise": [
+      "productivity",
+      "business operations",
+      "SaaS",
+      "automation",
+      "freelance tools"
+    ],
+    "credentials": [
+      "MBA, Operations Management"
+    ],
+    "sameAs": [
+      "https://www.linkedin.com/in/marcusthorne-example"
+    ]
+  },
+  "reviewedBy": null,
+  "key_takeaways": [
+    "Never use Airtable's native Interface Designer for client-facing portals, as its collaborator model creates a catastrophic data breach risk by exposing client identities to one another.",
+    "Treat your client portal as a critical brand asset by using a custom domain and professional design to project authority and justify premium pricing.",
+    "Future-proof your operations by selecting a portal platform with granular user roles, enabling you to securely delegate work to team members and subcontractors without exposing sensitive data.",
+    "Leverage a professional portal to create an indisputable audit trail for client approvals and automate workflows, thereby minimizing scope creep and administrative overhead."
+  ],
+  "summary": "Choosing a client portal is a critical risk management decision, as using insecure tools like Airtable's native interface can expose confidential data and project an unprofessional image. To mitigate this, professionals should adopt dedicated platforms that guarantee client data segregation, support future growth, and provide a fully branded experience. This strategic investment eliminates catastrophic security risks and transforms your portal from a liability into a professional asset that builds client trust and reinforces your authority.",
+  "ai_overview_answer": "Choosing an Airtable client portal is a critical business risk decision because it directly impacts client data security, operational scalability, and brand perception. The free, native Airtable Interface Designer is not secure for confidential client data due to a fundamental security flaw. Its collaborator model can expose one client's identity and information to another, creating a catastrophic privacy breach. To mitigate this risk, professionals must use a dedicated third-party platform like Softr, Noloco, or Stacker. These tools are specifically designed to guarantee client data segregation through granular, record-level permissions. Furthermore, they enable a custom-branded experience on your own domain, projecting a professional image and building client trust. For businesses planning to scale, these advanced platforms also support complex user roles and automation to future-proof your operations. The cost of a professional tool is therefore a necessary investment in security and risk management.",
+  "disclaimer": null,
+  "slug": "/blog/a-guide-to-creating-interfaces-in-airtable-for-client-portals",
+  "canonicalUrl": "https://gruv.ai/blog/a-guide-to-creating-interfaces-in-airtable-for-client-portals",
+  "source_urls": [],
+  "wordCount": 1490,
+  "readingTime": 7,
+  "seo": {
+    "meta_title": "Airtable Interfaces for Client Portals: A Security Guide",
+    "meta_description": "Using the native tool for Airtable interfaces for client portals is a major security risk. Learn the professional way to build a secure, branded system.",
+    "image_alt": "A guide to creating secure Airtable interfaces for client portals.",
+    "ogTitle": "Airtable Interfaces for Client Portals: A Security Guide",
+    "ogDescription": "Using the native tool for Airtable interfaces for client portals is a major security risk. Learn the professional way to build a secure, branded system.",
+    "ogImage": "https://images.pexels.com/photos/8439671/pexels-photo-8439671.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "twitterTitle": "Airtable Interfaces for Client Portals: A Security Guide",
+    "twitterDescription": "Using the native tool for Airtable interfaces for client portals is a major security risk. Learn the professional way to build a secure, branded system.",
+    "twitterImage": "",
+    "twitterCard": "summary_large_image",
+    "featuredImage": "https://images.pexels.com/photos/8439671/pexels-photo-8439671.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  "featuredImage": "https://images.pexels.com/photos/8439671/pexels-photo-8439671.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "dates": {
+    "published_date": "2023-10-27T10:00:00.000Z",
+    "last_updated": "2023-10-27T10:00:00.000Z"
+  },
+  "structured_data": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://gruv.ai/#organization",
+        "name": "Gruv",
+        "url": "https://gruv.ai",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://gruv.ai/logo.png"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://gruv.ai/blog/a-guide-to-creating-interfaces-in-airtable-for-client-portals/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://gruv.ai"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Blog",
+            "item": "https://gruv.ai/blog"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "A guide to creating 'Interfaces' in Airtable for client portals"
+          }
+        ]
+      },
+      {
+        "@type": "BlogPosting",
+        "@id": "https://gruv.ai/blog/a-guide-to-creating-interfaces-in-airtable-for-client-portals/#article",
+        "headline": "A guide to creating 'Interfaces' in Airtable for client portals",
+        "description": "Choosing a client portal is a critical risk management decision, as using insecure tools like Airtable's native interface can expose confidential data and project an unprofessional image. To mitigate this, professionals should adopt dedicated platforms that guarantee client data segregation, support future growth, and provide a fully branded experience. This strategic investment eliminates catastrophic security risks and transforms your portal from a liability into a professional asset that builds client trust and reinforces your authority.",
+        "datePublished": "2023-10-27T10:00:00.000Z",
+        "dateModified": "2023-10-27T10:00:00.000Z",
+        "inLanguage": "en-US",
+        "articleSection": "Tech Stack Deep Dives",
+        "isAccessibleForFree": true,
+        "author": {
+          "@type": "Person",
+          "name": "Marcus Thorne",
+          "description": "A former tech COO turned 'Business-of-One' consultant, Marcus is obsessed with efficiency. He writes about optimizing workflows, leveraging technology, and building resilient systems for solo entrepreneurs.",
+          "url": "https://www.linkedin.com/in/marcusthorne-example",
+          "sameAs": [
+            "https://www.linkedin.com/in/marcusthorne-example"
+          ]
+        },
+        "publisher": {
+          "@id": "https://gruv.ai/#organization"
+        },
+        "mainEntityOfPage": {
+          "@id": "https://gruv.ai/blog/a-guide-to-creating-interfaces-in-airtable-for-client-portals/#article"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://gruv.ai/blog/a-guide-to-creating-interfaces-in-airtable-for-client-portals/#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Is Airtable's native interface secure for a client portal?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. To be unequivocally clear, the free, native Airtable Interface Designer is not secure for confidential client data. Its collaborator model creates an unacceptable risk of data cross-contamination, where one client may see the identity or information of another. Professionally responsible solutions require dedicated tools (like Softr or Noloco) or Airtable's paid \"Portals\" add-on, which are architected to enforce strict data segregation."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Airtable Interface vs. Softr for a client portal?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "This is a strategic choice. You choose Airtable's native Interface for internal-only dashboards where all users are trusted team members. You choose a platform like Softr when your audience is external—when you must project unquestionable professionalism, ensure absolute client data segregation, and control the end-to-end brand experience for paying clients."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can clients update data through an Airtable portal?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. When you use a professional third-party platform, you can grant clients specific permissions to edit data. You can create secure forms for onboarding, allow them to upload files, or let them update their own contact information, with every change writing directly back to your Airtable Base. This creates an interactive experience and reduces your administrative burden."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How much does it cost to build a proper Airtable client portal?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "While the native Interface is free, its security flaws make it unviable for client work. A secure, branded portal using a dedicated third-party tool typically starts in the range of $29 to $59 per month. View this not as a software cost, but as a critical investment in security, professionalism, and risk mitigation. The monthly fee is negligible compared to the potential cost of a single client data breach."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Do I need to know how to code?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. The entire ecosystem of tools for building Airtable interfaces for client portals is built on no-code principles. Platforms like Softr, Noloco, and Stacker use intuitive drag-and-drop editors, allowing you to design and launch a powerful portal without writing a single line of code."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "body": [
+    {
+      "type": "heading_2",
+      "content": "Why Your Portal Choice is a Critical Business Risk Decision"
+    },
+    {
+      "type": "paragraph",
+      "content": "That feeling of professional exposure—the subtle fear that a client might see something they aren't supposed to—is a powerful signal. Choosing how to build your **client portal** isn't a simple trade-off between cost and features. For an elite professional, it's a fundamental risk management decision. The wrong choice can expose confidential client data, project an amateur brand, and create system-wide friction that stifles your growth."
+    },
+    {
+      "type": "paragraph",
+      "content": "Before comparing tools for building **Airtable interfaces for client portals**, you must understand the core strategic choice you are making. Every option can be assessed against three pillars:"
+    },
+    {
+      "type": "list",
+      "style": "ordered",
+      "items": [
+        "**Security:** Does this solution guarantee **client data segregation**? Can I ensure with 100% certainty that Client A will never see information belonging to Client B?",
+        "**Scalability:** Will this solution grow with my business, or will I be forced into a costly rebuild in 12 months as I add clients, team members, and complexity?",
+        "**Brand Perception:** Does this solution project the image of a premium, legitimate business partner? Your portal is a direct reflection of your investment in professional infrastructure."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "These pillars define three distinct tiers of operational maturity. Your choice isn't about finding the \"best\" tool; it's about honestly assessing your current needs and future ambitions."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Pathway",
+        "Best For",
+        "Core Business Implication"
+      ],
+      "rows": [
+        [
+          "**Tier 1: The Native Interface**",
+          "Internal collaboration or projects with a single, trusted partner on non-sensitive data.",
+          "High-risk for client-facing work due to inherent data exposure flaws."
+        ],
+        [
+          "**Tier 2: The Professional Platform**",
+          "Professionals needing a secure, branded solution to guarantee client data segregation.",
+          "A direct investment in baseline professionalism and risk mitigation."
+        ],
+        [
+          "**Tier 3: The Scaler System**",
+          "Businesses building a bespoke, automated client experience operating system.",
+          "Positions the portal as a competitive advantage and a seamless extension of a premium brand."
+        ]
+      ]
+    },
+    {
+      "type": "heading_2",
+      "content": "Tier 1: The Starter System (When Airtable's Native Interface is a Liability)"
+    },
+    {
+      "type": "paragraph",
+      "content": "Airtable's own Interface Designer is powerful and integrated, and because it’s free, it’s often the first stop. But for a high-value professional, its acceptable use case is dangerously narrow. Thinking of this as a \"starter\" portal is a mistake; it's a specialized internal tool that, if used improperly, poses a direct threat to your client relationships and reputation."
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "**The ONLY Safe Use Case:** The native Interface Designer is for **internal projects only**. Use it to build dashboards for yourself or to collaborate with a single, trusted partner (like a co-consultant) on data that isn't sensitive. It is an internal dashboarding tool, not a secure, client-facing system. The moment you need to share information with an external, paying client, you have outgrown this tier.",
+        "**The Catastrophic Security Flaw:** The native Interface works by adding clients as \"collaborators\" to the underlying Airtable Base. This creates a critical and unacceptable privacy breach. Even with read-only permissions, a collaborator can often see the list—and email addresses—of all other users who have access to that interface. For a professional managing multiple clients, this is a **catastrophic data privacy failure.** Imagine Client A seeing the name and contact details for Client B, your largest account. The trust you've worked so hard to build evaporates instantly.",
+        "**Limitations as Business Risks:** The core issue is the lack of true, record-level permissions. You cannot reliably wall off one client's data from another's within the same Base. This creates an ongoing risk of data cross-contamination, violating the confidentiality that is the bedrock of your client agreements. This isn't a feature gap—it is a direct compliance and liability risk you are choosing to accept.",
+        "**The Brand Perception Signal:** Beyond security failures, a portal built with native **Airtable interfaces** sends a clear signal. The experience feels clunky, carries heavy Airtable branding, and lacks the polished feel of a professional platform. To a sophisticated client, this signals you are using a free, non-specialized tool for a critical business function, subtly undermining your premium positioning."
+      ]
+    },
+    {
+      "type": "heading_2",
+      "content": "Tier 2: The Professional System (How to Guarantee Security & Project Authority)"
+    },
+    {
+      "type": "paragraph",
+      "content": "That erosion of trust is precisely why graduating to a professional, purpose-built system isn't an upgrade—it's the non-negotiable standard for any professional managing active client relationships. At this tier, you move to dedicated platforms purpose-built for secure client interaction. This includes the paid Airtable Portals add-on or, for maximum control, third-party solutions like Softr, Noloco, or Stacker. This is where you stop managing liability and start building a competitive advantage."
+    },
+    {
+      "type": "paragraph",
+      "content": "The shift to a Tier 2 system is about fundamentally re-architecting how you share information. Instead of adding clients as collaborators *into* your private workspace, these platforms allow you to build a secure, external-facing **client portal** that selectively pulls data *out* of your Airtable Base. This distinction is the bedrock of professional-grade security."
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "**Eliminate Risk by Design:** The critical feature that enables this is **granular, record-level permissions**. These tools are built on an architecture that guarantees Client A can *only* see the projects, tasks, and files associated with their record. They are not a guest in your database; they are a verified user in a separate application that you control completely. This principle of data segregation is non-negotiable, ensuring you can ethically manage multiple client relationships without the risk of a data breach.",
+        "**Curate a Premium Brand Experience:** A professional portal is a powerful brand asset. It transforms your portal from a generic data-sharing tool into a seamless extension of your brand identity, signaling your commitment to a modern, professional digital experience."
+      ]
+    },
+    {
+      "type": "table",
+      "header": [
+        "Feature",
+        "Tier 1 (Native Interface)",
+        "Tier 2 (Professional Platform)"
+      ],
+      "rows": [
+        [
+          "**Domain**",
+          "`airtable.com/app...`",
+          "`portal.yourcompany.com`"
+        ],
+        [
+          "**Branding**",
+          "Prominent Airtable logos and colors",
+          "Your logo, your colors, your layout"
+        ],
+        [
+          "**User Interface**",
+          "Standardized, often clunky for clients",
+          "Custom-designed, intuitive, and mobile-responsive"
+        ],
+        [
+          "**Client Perception**",
+          "\"They're using a free internal tool.\"",
+          "\"This is a legitimate, established business partner.\""
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "This level of control signals to sophisticated clients that you are a serious enterprise that invests in the infrastructure required to serve them properly."
+    },
+    {
+      "type": "paragraph",
+      "content": "**Build Bulletproof Professional Workflows:** A professional **client portal** moves beyond simple **project reporting** and becomes an active tool for mitigating business risk. You can build secure, streamlined workflows that create an indisputable source of truth."
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "**Secure Document Exchange:** Create a dedicated space for clients to upload sensitive documents or download deliverables like SOWs and MSAs, all logged and permissioned.",
+        "**Auditable Approval Systems:** Design a workflow where every client sign-off is logged with a user ID and timestamp. This creates an **indisputable audit trail that prevents scope creep** and protects your revenue from \"he said, she said\" disagreements.",
+        "**Action-Oriented Dashboards:** Build interactive dashboards that prompt clients for specific feedback, assign them tasks, and track their completion, keeping projects moving and clarifying responsibilities."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "A secure, well-designed portal is a tangible demonstration of your expertise. It reassures clients their information is safe, reinforces the premium nature of your services, and builds the foundational trust that turns projects into lasting relationships."
+    },
+    {
+      "type": "heading_2",
+      "content": "Tier 3: The Scaler System (Building an OS That Grows With You)"
+    },
+    {
+      "type": "paragraph",
+      "content": "A professional, secure foundation establishes authority, but true operational maturity arrives when that system can grow without fracturing. For the business poised for expansion—whether that means bringing on subcontractors, managing more complex projects, or simply increasing your client roster—the goal must be to build a resilient **Client Experience Operating System**. This is where you graduate from a professional portal to a scalable platform, leveraging the advanced capabilities of leading third-party tools to future-proof your business."
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "**Future-Proof Your Operations with Advanced Roles:** As your business scales from five to fifteen clients, a flat permission structure becomes a liability. A truly scalable system provides **advanced user roles and permissions**. This allows you to grant a subcontractor access *only* to the project files for the specific client they are assigned to, while completely walling them off from your financial data, contracts, and other clients' projects. This granular control is the core mechanism that enables you to delegate work confidently and build a team without exposing your entire operation.",
+        "**Automate to Elevate Your Value:** The most powerful **no-code** platforms move beyond data presentation to become hubs for intelligent automation. By integrating with tools like Stripe or Zapier, you can eliminate entire categories of administrative work. Imagine a seamless onboarding workflow: a client signs your proposal, which automatically creates their portal account, assigns them to the correct project, and generates the initial invoice. This level of automation reclaims your time, reduces manual error, and keeps you focused on the high-value strategic work your clients are paying for.",
+        "**Move Beyond Reporting to True Collaboration:** A Tier 3 system transforms reporting into a dynamic, collaborative environment. Advanced portals reduce your reliance on scattered email chains by incorporating features like integrated chat, in-line file annotations, and dynamic dashboards. This creates a **single source of truth** for the entire client relationship. Instead of sending a static weekly update, the client can log in at any time to see real-time progress, comment directly on deliverables, and access all historical approvals in one place. This minimizes miscommunication and elevates your role from a service provider to an indispensable partner."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "Adopting this system-level thinking is the final step. But before you build, it's crucial to address the practical questions that underpin a confident decision. Let's clarify the most common concerns."
+    },
+    {
+      "type": "heading_2",
+      "content": "Frequently Asked Questions"
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "**Is Airtable's native interface secure for a client portal?**\n    No. To be unequivocally clear, the free, native Airtable Interface Designer is **not secure for confidential client data**. Its collaborator model creates an unacceptable risk of data cross-contamination, where one client may see the identity or information of another. Professionally responsible solutions require dedicated tools (like Softr or Noloco) or Airtable's paid \"Portals\" add-on, which are architected to enforce strict data segregation.",
+        "**Airtable Interface vs. Softr for a client portal?**\n    This is a strategic choice. You choose Airtable's native Interface for internal-only dashboards where all users are trusted team members. You choose a platform like Softr when your audience is external—when you must project **unquestionable professionalism, ensure absolute client data segregation, and control the end-to-end brand experience** for paying clients.",
+        "**Can clients update data through an Airtable portal?**\n    Yes. When you use a professional third-party platform, you can grant clients specific permissions to edit data. You can create secure forms for onboarding, allow them to upload files, or let them update their own contact information, with every change writing directly back to your Airtable Base. This creates an interactive experience and reduces your administrative burden.",
+        "**How much does it cost to build a proper Airtable client portal?**\n    While the native Interface is free, its security flaws make it unviable for client work. A secure, branded portal using a dedicated third-party tool typically starts in the range of $29 to $59 per month. View this not as a software cost, but as a **critical investment in security, professionalism, and risk mitigation.** The monthly fee is negligible compared to the potential cost of a single client data breach.",
+        "**Do I need to know how to code?**\n    No. The entire ecosystem of tools for building **Airtable interfaces for client portals** is built on **no-code** principles. Platforms like Softr, Noloco, and Stacker use intuitive drag-and-drop editors, allowing you to design and launch a powerful portal without writing a single line of code."
+      ]
+    },
+    {
+      "type": "heading_2",
+      "content": "Your Final Verdict: A Strategic Framework, Not a Tool List"
+    },
+    {
+      "type": "paragraph",
+      "content": "Viewing your portal as a critical investment rather than a simple cost is the pivot from tactical problem-solving to strategic business leadership. The decision isn't about Airtable vs. Softr; it's about consciously choosing your tier of professional maturity. You are choosing between a temporary fix that creates risk and a permanent asset that builds trust."
+    },
+    {
+      "type": "paragraph",
+      "content": "To make the right choice, assess your business against the three pillars of a professional client experience: **Security, Scalability, and Brand Perception.** This framework defines your requirements *before* you ever compare pricing pages. By framing the decision this way, you build more than a portal—you build a Client Experience Operating System that protects your business, enhances your authority, and becomes a genuine competitive advantage."
+    },
+    {
+      "type": "paragraph",
+      "content": "Use this lens to assess your needs:"
+    },
+    {
+      "type": "table",
+      "header": [
+        "Pillar",
+        "Key Question for Your Business",
+        "Low-Maturity Signal",
+        "High-Maturity Signal"
+      ],
+      "rows": [
+        [
+          "**Security**",
+          "What is the full financial and reputational cost of a single client data breach?",
+          "Using a shared collaborator model that risks exposing one client's identity to another.",
+          "Enforcing granular, record-level permissions where each client's data is verifiably segregated."
+        ],
+        [
+          "**Scalability**",
+          "Will this system support my business in 18 months without a complete rebuild?",
+          "The system requires manual, repetitive tasks for every new client and project.",
+          "Key workflows like onboarding and reporting are automated, and user roles can be defined for new team members."
+        ],
+        [
+          "**Brand Perception**",
+          "Does my **client portal** project the same premium quality as my core service?",
+          "The portal has another company's branding and feels disconnected from your business.",
+          "The portal uses your custom domain and is meticulously branded for a seamless, trustworthy client experience."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "**Security** is the bedrock. A system that cannot guarantee data segregation isn't a \"limited\" tool; it's a liability."
+    },
+    {
+      "type": "paragraph",
+      "content": "**Scalability** is your defense against future friction. It’s the key to increasing capacity without sacrificing quality or control."
+    },
+    {
+      "type": "paragraph",
+      "content": "Finally, **Brand Perception** is about commanding a premium. A polished, intuitive, and securely branded portal reinforces the value of your work and signals to clients that they are in the hands of a true professional."
+    }
+  ],
+  "ogImage": "https://images.pexels.com/photos/8439671/pexels-photo-8439671.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+}

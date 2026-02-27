@@ -1,0 +1,393 @@
+{
+  "id": 1845,
+  "title": "How to Use Asana's 'Portfolio' Feature to Manage Multiple Agency Clients",
+  "pillar": "Business Structure & Compliance",
+  "category": "Tech Stack Deep Dives",
+  "primary_keyword": "asana portfolio for agencies",
+  "tags": [
+    "asana portfolio",
+    "agency project management",
+    "client dashboard",
+    "workflow",
+    "productivity"
+  ],
+  "interlinking_suggestions": [
+    {
+      "id": 90,
+      "title": "Value-Based Pricing: A Freelancer's Guide",
+      "slug": "/blog/value-based-pricing-guide"
+    },
+    {
+      "id": 233,
+      "title": "The Best CRMs for Freelancers to Manage Client Relationships",
+      "slug": "/blog/best-crm-for-freelancers"
+    },
+    {
+      "id": 732,
+      "title": "A Freelancer's Guide to Sales Qualifying",
+      "slug": "/blog/freelancers-guide-to-sales-qualifying"
+    }
+  ],
+  "author": {
+    "name": "Marcus Thorne",
+    "role": "Productivity & Operations Expert",
+    "bio": "A former tech COO turned 'Business-of-One' consultant, Marcus is obsessed with efficiency. He writes about optimizing workflows, leveraging technology, and building resilient systems for solo entrepreneurs.",
+    "expertise": [
+      "productivity",
+      "business operations",
+      "SaaS",
+      "automation",
+      "freelance tools"
+    ],
+    "credentials": [
+      "MBA, Operations Management"
+    ],
+    "sameAs": [
+      "https://www.linkedin.com/in/marcusthorne-example"
+    ]
+  },
+  "reviewedBy": null,
+  "key_takeaways": [
+    "Implement a real-time profitability dashboard using a formula-based \"Project Margin (%)\" custom field to instantly identify and address financially at-risk projects.",
+    "Proactively manage client retention by creating dedicated client portfolios with a \"Client Temperature\" custom field (Healthy, Neutral, At Risk) that is updated weekly.",
+    "Leverage the \"Workload\" view across all projects to prevent team burnout by rebalancing assignments and to make data-driven hiring decisions based on capacity trends.",
+    "Structure your project management tool around three strategic portfolios—Financials, Client Health, and Team Capacity—to shift from reactive task management to proactive business oversight."
+  ],
+  "summary": "Agency leaders often get trapped in a reactive \"operator\" mindset, lacking visibility into crucial business metrics like profitability, client health, and team capacity within their project tools. This guide provides a framework for transforming Asana Portfolios into a strategic command center with dedicated dashboards to track real-time project margins, monitor client relationships, and manage team workload. By implementing this system, leaders gain the data-driven oversight to prevent fires instead of fighting them, enabling a shift to proactive leadership and a more profitable, resilient agency.",
+  "ai_overview_answer": "To effectively manage an agency using Asana, transform Portfolios into a strategic command center by implementing a three-portfolio framework. This system provides real-time visibility into profitability, client health, and team capacity. First, create a master \"Financials\" portfolio with custom fields to track budgeted hours against actual hours, generating a live project margin percentage. This allows you to sort by profitability and immediately identify at-risk projects. Second, establish dedicated portfolios for each key client, using a \"Client Temperature\" custom field to proactively monitor relationship health and prevent churn. Finally, use a master \"Operations\" portfolio with the Workload feature to get a visual dashboard of your team's utilization. This enables you to rebalance assignments to prevent burnout and make data-driven hiring decisions. This structured approach moves you from reactive task management to strategic oversight of your agency's core health metrics.",
+  "disclaimer": null,
+  "slug": "/blog/how-to-use-asanas-portfolio-feature-to-manage-multiple-agency-clients",
+  "canonicalUrl": "https://gruv.ai/blog/how-to-use-asanas-portfolio-feature-to-manage-multiple-agency-clients",
+  "source_urls": [],
+  "wordCount": 1430,
+  "readingTime": 7,
+  "seo": {
+    "meta_title": "Asana Portfolio for Agencies: A CEO's Command Center",
+    "meta_description": "Stop guessing. This guide transforms the Asana Portfolio for agencies into a command center for tracking real-time profit, client health, and team capacity.",
+    "image_alt": "How to Use Asana's 'Portfolio' Feature to Manage Multiple Agency Clients",
+    "ogTitle": "Asana Portfolio for Agencies: A CEO's Command Center",
+    "ogDescription": "Stop guessing. This guide transforms the Asana Portfolio for agencies into a command center for tracking real-time profit, client health, and team capacity.",
+    "ogImage": "https://images.pexels.com/photos/6771740/pexels-photo-6771740.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "featuredImage": "https://images.pexels.com/photos/6771740/pexels-photo-6771740.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "twitterTitle": "Asana Portfolio for Agencies: A CEO's Command Center",
+    "twitterDescription": "Stop guessing. This guide transforms the Asana Portfolio for agencies into a command center for tracking real-time profit, client health, and team capacity.",
+    "twitterCard": "summary_large_image",
+    "twitterImage": ""
+  },
+  "dates": {
+    "published_date": "2023-10-27T10:00:00Z",
+    "last_updated": "2023-10-27T10:00:00Z"
+  },
+  "structured_data": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://gruv.ai/#organization",
+        "name": "Gruv",
+        "url": "https://gruv.ai/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://gruv.ai/logo.png"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://gruv.ai/blog/how-to-use-asanas-portfolio-feature-to-manage-multiple-agency-clients/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://gruv.ai/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Blog",
+            "item": "https://gruv.ai/blog"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "How to Use Asana's 'Portfolio' Feature to Manage Multiple Agency Clients"
+          }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "@id": "https://gruv.ai/blog/how-to-use-asanas-portfolio-feature-to-manage-multiple-agency-clients/#howto",
+        "mainEntityOfPage": "https://gruv.ai/blog/how-to-use-asanas-portfolio-feature-to-manage-multiple-agency-clients",
+        "headline": "How to Use Asana's 'Portfolio' Feature to Manage Multiple Agency Clients",
+        "description": "Stop guessing. This guide transforms the Asana Portfolio for agencies into a command center for tracking real-time profit, client health, and team capacity.",
+        "datePublished": "2023-10-27T10:00:00Z",
+        "dateModified": "2023-10-27T10:00:00Z",
+        "inLanguage": "en-US",
+        "articleSection": "Tech Stack Deep Dives",
+        "isAccessibleForFree": true,
+        "author": {
+          "@type": "Person",
+          "name": "Marcus Thorne",
+          "url": "https://www.linkedin.com/in/marcusthorne-example"
+        },
+        "publisher": {
+          "@id": "https://gruv.ai/#organization"
+        },
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Pillar 1: The Real-Time Profitability Dashboard",
+            "text": "The journey from guessing to knowing begins with the most uncompromising metric: profitability. First, establish a single source of financial truth. Create a new Portfolio named “Agency Financials.” The rule is absolute: if a project is active and billable, it must be in this portfolio. Next, build the margin-tracking machine. Within your \"Agency Financials\" portfolio, add three essential Custom Fields to every project: Project Budget (Hours), Actual Hours Logged, and Project Margin (%). For the Project Margin (%) field, use this simple formula: (1 - (Actual Hours Logged / Project Budget (Hours))) * 100. This calculation instantly reveals what percentage of your budgeted hours—and therefore, your profit—remains. Now, you can turn raw data into mission-critical decisions by sorting your portfolio by the Project Margin (%) field to create your agency's \"At-Risk\" list."
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Pillar 2: The Predictive Client Health Radar",
+            "text": "A project's financial health is critical, but profit erosion is often just a symptom of a deeper problem: a deteriorating client relationship. Create a dedicated Asana Portfolio for each of your key clients (e.g., \"Client Health: Acme Corp\"). Within each client-specific portfolio, add a single-select Custom Field to every project called `Client Temperature` with three options: 🟢 Healthy, 🟡 Neutral, 🔴 At Risk. This is a professional assessment based on observable data that your team must update weekly using Asana's \"Status Update\" feature. This \"Radar\" is not just a defensive tool to mitigate churn; it's an offensive instrument for growth."
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Pillar 3: The Team Capacity & Growth Engine",
+            "text": "A profitable agency with happy clients is unsustainable if your team is burning out. Create a new Portfolio named \"Agency Operations & Capacity\" and add every active project. This portfolio's \"Workload\" tab is your command center for team health. It provides an instant, visual snapshot of your team's capacity, showing you who is over- or under-utilized. By setting a weekly capacity limit for each team member, you can proactively rebalance work, forecast with confidence for new clients, and justify your next hire with hard data when you consistently see multiple team members operating at or above 100% capacity."
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://gruv.ai/blog/how-to-use-asanas-portfolio-feature-to-manage-multiple-agency-clients/#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "How do you track agency profitability in Asana Portfolios?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Create a master \"Agency Financials\" Portfolio containing every billable project. Implement three custom fields: `Project Budget (Hours)` (total hours sold), `Actual Hours Logged` (updated weekly), and a formula field called `Project Margin (%)`. The formula `(1 - (Actual Hours Logged / Project Budget (Hours))) * 100` gives you a live view of remaining profitability. Sorting this portfolio by margin instantly surfaces your most at-risk projects."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is the best way to structure Asana Portfolios for an agency?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "We advocate for the strategic 3-Portfolio structure in this guide, as it aligns with the core pillars of a healthy agency:\n- A \"Financials\" Portfolio: A global view of profitability across all clients.\n- Client-specific \"Health Radar\" Portfolios: An individual portfolio for each key client to monitor relationship health.\n- An \"Operations & Capacity\" Portfolio: A master portfolio of all projects, used with the Workload tab to manage team capacity."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can you use Asana Portfolios for client reporting?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, and it builds immense trust. Create a dedicated Portfolio containing only one client's projects. Invite client stakeholders as commenter-only guests to grant them a live, transparent, read-only view of project status and milestones. This eliminates manual status reports and demonstrates an unparalleled level of transparency."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How do you manage team capacity for an agency in Asana?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Use the \"Workload\" feature within a master Portfolio that holds all active projects. This provides a visual dashboard of each team member's assigned work against their set capacity. It allows you to immediately identify who is over-utilized and at risk of burnout, enabling you to rebalance work or make a data-driven case for a new hire."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Are Asana Portfolios included in all plans?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. Portfolios are a premium feature available on Asana's Advanced, Enterprise, and Enterprise+ plans. While this requires an investment, it is the feature that unlocks the ability to move from merely managing tasks to strategically managing your entire business."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "body": [
+    {
+      "type": "heading_2",
+      "content": "The Agency Command Center: A Strategic Framework for Using Asana Portfolios to Master Profitability, Client Health, and Team Capacity"
+    },
+    {
+      "type": "paragraph",
+      "content": "Most agency leaders are trapped in the operator mindset. It’s a world of reactive fire-fighting where success is measured by tasks completed and deadlines met. An operator asks, \"Is this project on track?\" A CEO, however, asks, \"Is this project profitable? Is this client a retention risk? Is my team about to burn out?\" Relying solely on project-level views in your management tools forces you into the operator's seat, perpetually reacting to what’s urgent instead of steering toward what's important."
+    },
+    {
+      "type": "paragraph",
+      "content": "This is where most agencies falter—not for a lack of effort, but for a flaw in their tooling. You invested in a platform like Asana to bring order to chaos. It’s brilliant for managing tasks and deadlines, but for many, its utility stops there. It becomes a glorified to-do list, a digital assembly line that keeps projects moving but leaves you blind to the metrics that determine business success. You’re stuck managing tasks instead of managing the business."
+    },
+    {
+      "type": "paragraph",
+      "content": "This guide provides the definitive framework to make the leap from operator to CEO. We will re-architect your approach by transforming Asana Portfolios from a simple feature into your agency's strategic Command Center. This isn't about creating another vanity dashboard. It's about building an internal business intelligence engine that gives you uncompromising control over the three pillars of your agency’s health:"
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "**Your Money:** Attaining real-time visibility into the profitability of every single project.",
+        "**Your Clients:** Proactively monitoring the health and risk of each client relationship.",
+        "**Your Team:** Managing capacity to prevent burnout and make data-driven hiring decisions."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "By implementing this framework, you stop reacting to fires and start preventing them. You trade anxiety for authority, armed with the strategic oversight needed to lead with confidence and build a more resilient, predictable, and profitable agency."
+    },
+    {
+      "type": "heading_2",
+      "content": "Pillar 1: The Real-Time Profitability Dashboard"
+    },
+    {
+      "type": "paragraph",
+      "content": "The journey from guessing to knowing begins with the most uncompromising metric: profitability. For too long, agencies have treated profit margin as a historical artifact—a number you discover weeks after a project is complete, when it’s too late to act. To operate with a CEO’s confidence, you need a live, uncompromising view of your financial health. This is about building a powerful early-warning system directly within Asana."
+    },
+    {
+      "type": "paragraph",
+      "content": "First, establish a single source of financial truth. Create a new Portfolio named **“Agency Financials.”** The rule is absolute: if a project is active and billable, it must be in this portfolio. This act of consolidation eliminates blind spots and creates a holistic view of all revenue streams."
+    },
+    {
+      "type": "paragraph",
+      "content": "Next, build the margin-tracking machine. Within your \"Agency Financials\" portfolio, add three essential Custom Fields to every project. To do this, open any project in the portfolio, click \"Customize,\" and add the following:"
+    },
+    {
+      "type": "table",
+      "header": [
+        "Custom Field Name",
+        "Field Type",
+        "Purpose"
+      ],
+      "rows": [
+        [
+          "**Project Budget (Hours)**",
+          "`Number`",
+          "The total hours sold or allocated to the project. This is your baseline for success."
+        ],
+        [
+          "**Actual Hours Logged**",
+          "`Number`",
+          "The cumulative hours your team has spent. This field must be updated diligently—ideally weekly—from your time-tracking system."
+        ],
+        [
+          "**Project Margin (%)**",
+          "`Formula`",
+          "Provides an instant, real-time calculation of your remaining margin."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "For the **`Project Margin (%)`** field, use this simple formula: `(1 - (Actual Hours Logged / Project Budget (Hours))) * 100`. This calculation instantly reveals what percentage of your budgeted hours—and therefore, your profit—remains. It moves profitability from a lagging indicator buried in a spreadsheet to a live, operational metric."
+    },
+    {
+      "type": "paragraph",
+      "content": "Now, you can turn raw data into mission-critical decisions. Navigate to your \"Agency Financials\" portfolio and sort it by the `Project Margin (%)` field, from lowest to highest. You have just created your agency's \"At-Risk\" list. The projects at the top demand your immediate attention. Is it scope creep? An inefficient workflow? An inaccurate initial estimate? This dashboard doesn't just give you numbers; it tells you exactly where to focus your energy to protect your bottom line."
+    },
+    {
+      "type": "heading_2",
+      "content": "Pillar 2: The Predictive Client Health Radar"
+    },
+    {
+      "type": "paragraph",
+      "content": "A project's financial health is critical, but profit erosion is often just a symptom of a deeper problem: a deteriorating client relationship. A project can be perfectly on budget yet utterly fail if the human connection frays. To gain true control, you must learn to measure the intangible and spot the subtle warning signs of client dissatisfaction before they escalate."
+    },
+    {
+      "type": "paragraph",
+      "content": "Unlike the global financial view, this system requires you to zoom in. Create a dedicated Asana Portfolio for each of your key clients (e.g., \"Client Health: Acme Corp\"). Place all of their respective projects inside. This strategic isolation allows you to see the entire relationship in a single glance, separating one client's challenges from the noise of your day-to-day operations. You are no longer just managing projects; you are managing the holistic health of each account."
+    },
+    {
+      "type": "paragraph",
+      "content": "Within each client-specific portfolio, you will now quantify the unquantifiable. Add a single-select Custom Field to every project called **`Client Temperature`** with three powerful options:"
+    },
+    {
+      "type": "table",
+      "header": [
+        "Temperature",
+        "Meaning"
+      ],
+      "rows": [
+        [
+          "**`🟢 Healthy`**",
+          "The relationship is strong. Communication is proactive, feedback is constructive, and they are a genuine partner."
+        ],
+        [
+          "**`🟡 Neutral`**",
+          "The relationship is stable but requires monitoring. Communication might be reactive, there's minor friction, or a key stakeholder has changed."
+        ],
+        [
+          "**`🔴 At Risk`**",
+          "The relationship is in jeopardy. You're seeing clear warning signs like missed meetings, consistently negative feedback, late payments, or radio silence."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "This isn't a gut feeling; it's a professional assessment based on observable data that your team must update religiously. To ensure this, instill a weekly discipline using Asana's built-in \"Status Update\" feature. Every Friday, the account lead should post a brief update that includes the current `Client Temperature` and a short justification. This creates an invaluable historical log. When a client suddenly feels \"at-risk,\" you can look back and see exactly when they shifted from green to yellow, and why."
+    },
+    {
+      "type": "paragraph",
+      "content": "This \"Radar\" is not just a defensive tool to mitigate churn; it's an offensive instrument for growth. A client who is consistently `🟢 Healthy` is your prime candidate for an upsell or a glowing testimonial. A client who slips to `🟡 Neutral` is your cue to schedule a proactive check-in. And one who hits `🔴 At Risk` triggers an immediate intervention to save the account. You stop reacting to client departures and start proactively managing your most valuable assets."
+    },
+    {
+      "type": "heading_2",
+      "content": "Pillar 3: The Team Capacity & Growth Engine"
+    },
+    {
+      "type": "paragraph",
+      "content": "A profitable agency with happy clients is unsustainable if your team—your single most valuable asset—is silently burning out. Simple task lists tell you what people are doing, but they reveal nothing about their actual workload. To build a truly resilient agency, you must move beyond task assignment and strategically manage your team’s capacity."
+    },
+    {
+      "type": "paragraph",
+      "content": "Create a new Portfolio named **\"Agency Operations & Capacity\"** and add every active project. This portfolio's **\"Workload\"** tab is your command center for team health. It provides an instant, visual snapshot of your team's capacity, showing you who is over- or under-utilized across all projects in one place. This isn't about micromanaging; it's about protecting your people and your business."
+    },
+    {
+      "type": "paragraph",
+      "content": "The Workload feature calculates the total effort (e.g., hours or task count) assigned to each person. By setting a weekly capacity limit for each team member, you get an immediate visual signal—often a red line—when someone is over capacity. This transforms three of the most challenging aspects of agency management into data-driven decisions:"
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "**Proactively rebalance work.** See that your lead designer is at 125% capacity while another is at 60%? You can now spot this imbalance before it leads to burnout and easily drag and drop tasks to redistribute the load, ensuring a sustainable pace for everyone.",
+        "**Forecast with confidence.** The Workload view gives you a forward-looking perspective on your team's availability. When a new client is ready to sign, you no longer have to guess if you can handle the work. You can look at the next few weeks and know precisely who has the bandwidth.",
+        "**Justify your next hire with hard data.** When you consistently see multiple team members operating at or above 100% capacity, the conversation about hiring is no longer based on a gut feeling. A screenshot of the Workload view is an objective, undeniable business case that a new hire is not a cost, but a strategic investment required for growth."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "By implementing this final pillar, you close the loop. You have full command over your profitability, your client relationships, and the well-being of the team that makes it all possible."
+    },
+    {
+      "type": "heading_2",
+      "content": "Frequently Asked Questions"
+    },
+    {
+      "type": "paragraph",
+      "content": "Putting this framework into action will raise practical questions. Here are the most common ones, answered."
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "**How do you track agency profitability in Asana Portfolios?**\n    *   Create a master \"Agency Financials\" Portfolio containing every billable project. Implement three custom fields: `Project Budget (Hours)` (total hours sold), `Actual Hours Logged` (updated weekly), and a formula field called `Project Margin (%)`. The formula `(1 - (Actual Hours Logged / Project Budget (Hours))) * 100` gives you a live view of remaining profitability. Sorting this portfolio by margin instantly surfaces your most at-risk projects.",
+        "**What is the best way to structure Asana Portfolios for an agency?**\n    *   We advocate for the strategic 3-Portfolio structure in this guide, as it aligns with the core pillars of a healthy agency:\n        *   **A \"Financials\" Portfolio:** A global view of profitability across all clients.\n        *   **Client-specific \"Health Radar\" Portfolios:** An individual portfolio for each key client to monitor relationship health.\n        *   **An \"Operations & Capacity\" Portfolio:** A master portfolio of all projects, used with the Workload tab to manage team capacity.",
+        "**Can you use Asana Portfolios for client reporting?**\n    *   Yes, and it builds immense trust. Create a dedicated Portfolio containing only one client's projects. Invite client stakeholders as commenter-only guests to grant them a live, transparent, read-only view of project status and milestones. This eliminates manual status reports and demonstrates an unparalleled level of transparency.",
+        "**How do you manage team capacity for an agency in Asana?**\n    *   Use the \"Workload\" feature within a master Portfolio that holds all active projects. This provides a visual dashboard of each team member's assigned work against their set capacity. It allows you to immediately identify who is over-utilized and at risk of burnout, enabling you to rebalance work or make a data-driven case for a new hire.",
+        "**Are Asana Portfolios included in all plans?**\n    *   No. Portfolios are a premium feature available on Asana's Advanced, Enterprise, and Enterprise+ plans. While this requires an investment, it is the feature that unlocks the ability to move from merely managing tasks to strategically managing your entire business."
+      ]
+    },
+    {
+      "type": "heading_2",
+      "content": "Conclusion: From Agency Operator to Agency CEO"
+    },
+    {
+      "type": "paragraph",
+      "content": "By implementing this 3-Pillar Command Center, you fundamentally change your relationship with your business. You elevate your tools from a simple task manager to the central nervous system of your entire operation. The Asana Portfolio becomes less of a feature and more of the cockpit from which you fly the business."
+    },
+    {
+      "type": "paragraph",
+      "content": "The result is a profound shift from reactive anxiety to proactive control. That persistent worry that gnaws at every agency owner—*Are we actually profitable? Is this client quietly unhappy? Is my team about to mutiny?*—is replaced by data-driven certainty. You will no longer guess if a project is going off the rails; your Profitability Dashboard will show you the eroding margin in real time. You will no longer be blindsided by a client who feels neglected; the \"Client Temperature\" forces a conscious, weekly evaluation of every key relationship. You will simply know."
+    },
+    {
+      "type": "paragraph",
+      "content": "This is the fundamental difference between running an agency and leading one. An operator is absorbed by the day's tasks. A CEO operates with a higher-level perspective, focused on the health, sustainability, and strategic growth of the business. This framework is the mechanism that enables that critical transition, equipping you with the strategic intelligence to build a more profitable, sustainable, and resilient company."
+    }
+  ],
+  "ogImage": "https://images.pexels.com/photos/6771740/pexels-photo-6771740.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "featuredImage": "https://images.pexels.com/photos/6771740/pexels-photo-6771740.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+}

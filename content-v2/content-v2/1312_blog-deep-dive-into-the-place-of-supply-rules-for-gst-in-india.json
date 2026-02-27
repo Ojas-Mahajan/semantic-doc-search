@@ -1,0 +1,459 @@
+{
+  "id": 1312,
+  "title": "A Deep Dive into the 'Place of Supply' Rules for GST in India",
+  "pillar": "Tax Residency & Compliance",
+  "category": "Geographic Deep Dives",
+  "primary_keyword": "place of supply gst india",
+  "tags": [
+    "place of supply",
+    "gst",
+    "export of services",
+    "igst",
+    "indian freelancer"
+  ],
+  "interlinking_suggestions": [
+    {
+      "id": 1,
+      "title": "The Ultimate Digital Nomad Tax Survival Guide for 2025",
+      "slug": "/blog/digital-nomad-tax-guide"
+    },
+    {
+      "id": 14,
+      "title": "Do I Have to Pay State Taxes While Living Abroad as a Digital Nomad?",
+      "slug": "/blog/state-taxes-for-digital-nomads"
+    },
+    {
+      "id": 1309,
+      "title": "A Guide to GST Registration for Indian Freelancers",
+      "slug": "/blog/a-guide-to-gst-registration-for-indian-freelancers"
+    }
+  ],
+  "author": {
+    "name": "Elena Petrova",
+    "role": "Cross-Border Legal Analyst",
+    "bio": "An international business lawyer by trade, Elena breaks down the complexities of freelance contracts, corporate structures, and international liability. Her goal is to empower freelancers with the legal knowledge to operate confidently.",
+    "expertise": [
+      "legal",
+      "contracts",
+      "compliance",
+      "business structure",
+      "risk"
+    ],
+    "credentials": [
+      "J.D., International Law"
+    ],
+    "sameAs": [
+      "https://www.linkedin.com/in/elenapetrova-example"
+    ]
+  },
+  "reviewedBy": {
+    "name": "Dr. Alistair Finch",
+    "role": "International Tax Strategist",
+    "bio": "With a Ph.D. in Economics and over 15 years at a Big Four accounting firm, Alistair specializes in demystifying cross-border tax law for independent professionals. He focuses on risk mitigation and long-term financial planning.",
+    "expertise": [
+      "tax",
+      "compliance",
+      "finance",
+      "legal",
+      "FBAR",
+      "FEIE",
+      "residency"
+    ],
+    "credentials": [
+      "Ph.D., Economics",
+      "Certified Public Accountant (CPA)"
+    ],
+    "sameAs": [
+      "https://www.linkedin.com/in/alistairfinch-example"
+    ]
+  },
+  "key_takeaways": [
+    "For any international client, confirm their foreign location to classify your service as a 'zero-rated supply,' which exempts the transaction from IGST.",
+    "Secure your 'export of services' status by maintaining irrefutable documentation, including a Master Service Agreement with the client's foreign address and a Foreign Inward Remittance Certificate (FIRC) from your bank.",
+    "Ensure every international invoice explicitly states the client's country as the 'Place of Supply' and includes the mandatory declaration for exporting under a Letter of Undertaking (LUT).",
+    "Verify the GST registration status of domestic clients, as misclassifying the Place of Supply can cause their Input Tax Credit (ITC) claim to be denied, creating a direct liability for them and damaging your credibility."
+  ],
+  "summary": "Global professionals face significant compliance risk when determining the correct GST place of supply for cross-border transactions. The core advice is to follow a three-step framework: diagnose your scenario (goods vs. services, client location), strategize to secure \"zero-rated export\" status with robust documentation, and execute with flawless, compliant invoicing. By mastering this process, you can eliminate tax uncertainty, protect your professional credibility, and confidently manage international services without charging IGST, allowing you to focus on your core business.",
+  "ai_overview_answer": "To determine the GST place of supply for services, you must first identify your client's location and registration status. For services provided to a client outside India, the place of supply is the recipient's location, which qualifies the transaction as a zero-rated \"export of services.\" This means you do not charge IGST on the invoice but can still claim refunds on input taxes. For domestic clients, the rule differs: for a registered business (B2B), the place of supply is their location, while for an unregistered consumer (B2C), it is generally your location as the provider. To secure export status, you must prove the client is located abroad and payment is received in convertible foreign exchange. This requires robust documentation, including a service agreement, a Foreign Inward Remittance Certificate (FIRC), and a compliant invoice. Your export invoice must explicitly state the foreign place of supply and include the declaration for exporting under a Letter of Undertaking (LUT) without payment of IGST.",
+  "disclaimer": null,
+  "slug": "/blog/deep-dive-into-the-place-of-supply-rules-for-gst-in-india",
+  "canonicalUrl": "https://gruv.ai/blog/deep-dive-into-the-place-of-supply-rules-for-gst-in-india",
+  "source_urls": [],
+  "wordCount": 1090,
+  "readingTime": 5,
+  "seo": {
+    "meta_title": "Place of Supply GST India: Your 3-Step Expert Guide",
+    "meta_description": "Confused by the place of supply GST India rules? Our 3-step guide for professionals clarifies B2B, B2C, & export scenarios to ensure compliance. Invoice with confidence.",
+    "image_alt": "A Deep Dive into the 'Place of Supply' Rules for GST in India",
+    "ogTitle": "Place of Supply GST India: Your 3-Step Expert Guide",
+    "ogDescription": "Confused by the place of supply GST India rules? Our 3-step guide for professionals clarifies B2B, B2C, & export scenarios to ensure compliance. Invoice with confidence.",
+    "ogImage": "https://images.pexels.com/photos/9062771/pexels-photo-9062771.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "featuredImage": "https://images.pexels.com/photos/9062771/pexels-photo-9062771.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "twitterTitle": "Place of Supply GST India: Your 3-Step Expert Guide",
+    "twitterDescription": "Confused by the place of supply GST India rules? Our 3-step guide for professionals clarifies B2B, B2C, & export scenarios to ensure compliance. Invoice with confidence.",
+    "twitterImage": "",
+    "twitterCard": "summary_large_image"
+  },
+  "dates": {
+    "published_date": "2023-10-27T12:00:00Z",
+    "last_updated": "2023-10-27T12:00:00Z"
+  },
+  "structured_data": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://gruv.ai/#organization",
+        "name": "Gruv",
+        "url": "https://gruv.ai",
+        "logo": "https://gruv.ai/logo.png"
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://gruv.ai/blog/deep-dive-into-the-place-of-supply-rules-for-gst-in-india/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://gruv.ai"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Blog",
+            "item": "https://gruv.ai/blog"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "A Deep Dive into the 'Place of Supply' Rules for GST in India"
+          }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "@id": "https://gruv.ai/blog/deep-dive-into-the-place-of-supply-rules-for-gst-in-india/#howto",
+        "mainEntityOfPage": {
+          "@id": "https://gruv.ai/blog/deep-dive-into-the-place-of-supply-rules-for-gst-in-india/#webpage"
+        },
+        "headline": "A Deep Dive into the 'Place of Supply' Rules for GST in India",
+        "description": "Global professionals face significant compliance risk when determining the correct GST place of supply for cross-border transactions. The core advice is to follow a three-step framework: diagnose your scenario (goods vs. services, client location), strategize to secure \"zero-rated export\" status with robust documentation, and execute with flawless, compliant invoicing. By mastering this process, you can eliminate tax uncertainty, protect your professional credibility, and confidently manage international services without charging IGST, allowing you to focus on your core business.",
+        "datePublished": "2023-10-27T12:00:00Z",
+        "dateModified": "2023-10-27T12:00:00Z",
+        "inLanguage": "en-US",
+        "articleSection": "Geographic Deep Dives",
+        "isAccessibleForFree": true,
+        "author": {
+          "@type": "Person",
+          "name": "Elena Petrova",
+          "url": "https://www.linkedin.com/in/elenapetrova-example"
+        },
+        "publisher": {
+          "@id": "https://gruv.ai/#organization"
+        },
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Step 1: The Diagnostic — Pinpoint Your GST Scenario",
+            "text": "Before applying any rule, you must first understand the landscape. This means answering three foundational questions to clarify your specific obligations under India's GST framework for place of supply.\n\n1. Goods or Services?\nThis is the critical first distinction. The rules for physical goods, governed by Section 10 of the IGST Act, focus on the movement of those goods. For most elite professionals—consultants, developers, and strategists—the focus is on services, which fall under Section 12 for domestic transactions and Section 13 for international ones.\n\n2. Client Location: India or Abroad?\nYour client's location is the primary determinant of the tax you apply.\n- Client in India: The transaction is domestic. You will charge either CGST + SGST for an intra-state supply (client in your state) or IGST for an inter-state supply (client in another Indian state).\n- Client Abroad: The transaction is a cross-border supply. For services provided to a client in the US, EU, or elsewhere, the place of supply is the recipient's location. This transaction qualifies as an export of services, which is a \"zero-rated supply.\"\n\n3. Client Profile (for Indian Clients): Business (B2B) or Consumer (B2C)?\nWhen dealing with domestic clients, their GST registration status is key."
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Step 2: The Strategy — Secure Your Status as an Exporter",
+            "text": "Once you've diagnosed your scenario, the strategy for global services is clear: build an irrefutable case that your place of supply is outside India. This allows you to classify your service as a \"zero-rated supply\"—a powerful provision that treats your service as taxable but at a 0% rate. You don't charge IGST to your foreign client, making you more competitive, and you can still claim a refund of the GST paid on your business inputs. To qualify your service as an export, you must meet five conditions under Section 2(6) of the IGST Act:\n1. The supplier (you) is located in India.\n2. The recipient (your client) is located outside India.\n3. The place of supply is outside India.\n4. Payment is received in convertible foreign exchange.\n5. You and your client are not merely different establishments of the same entity.\n\nYour Documentation is Your Defense\nProving these conditions is non-negotiable. A simple invoice is insufficient. Maintain a robust paper trail for every international project:\n- Master Service Agreement (MSA): Your foundational document, clearly stating the client's legal name and registered foreign address.\n- Proof of Payment: A Foreign Inward Remittance Certificate (FIRC) from your bank is the gold standard, confirming payment from a foreign source in foreign currency.\n- Compliant Invoices: Your invoice must explicitly state \"Supply Meant for Export under Bond or LUT without Payment of IGST\" (if you have a Letter of Undertaking).\n\nGetting this wrong has serious consequences. If you incorrectly assess the place of supply for a domestic client and charge the wrong tax, authorities can deny their claim for Input Tax Credit (ITC), creating a significant financial liability and damaging your professional credibility."
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Step 3: The Armor — Execute with Bulletproof Invoicing",
+            "text": "Strategy requires flawless execution. This practical toolkit turns rules into action, demonstrating professionalism and eliminating compliance friction.\n\nThe Exporter's Invoice Checklist\nBefore sending any invoice to a global client, ensure it passes this check:\n- Clear Identification: Does it include your GSTIN and the client's full legal name and foreign address?\n- Explicit Place of Supply: Is the Place of Supply explicitly stated as the client's country (e.g., \"Place of Supply: New York, USA\")?\n- Correct Export Declaration: Does it include the mandatory declaration for export, such as \"Supply Meant for Export under Bond or Letter of Undertaking without Payment of IGST\"? A Letter of Undertaking (LUT) is a simple online filing that allows you to export without paying IGST upfront, which is a major cash flow advantage.\n\nDemystifying the \"Bill-to-Ship-to\" Scenario\nThis scenario can cause confusion. Imagine your client in New York (\"Bill-to\") hires you to provide services for their subsidiary in London (\"Ship-to\"). The rule is clear: the place of supply is deemed to be the location of the person who gives the instruction—the \"Bill-to\" party. You would invoice the New York entity, list the Place of Supply as the USA, and treat it as a zero-rated export."
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://gruv.ai/blog/deep-dive-into-the-place-of-supply-rules-for-gst-in-india/#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is the place of supply for IT services provided from India to the USA?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The place of supply is the location of the recipient—the USA. This qualifies as an \"export of services\" and is a \"zero-rated supply.\" You do not charge IGST on your invoice to the US client."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How do I prove the place of supply for consulting services?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Your proof lies in your documentation. The key evidence includes:\n- A service agreement or contract stating the client's foreign address.\n- Export invoices with the correct declarations.\n- A Foreign Inward Remittance Certificate (FIRC) from your bank as proof of payment in foreign currency."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is the difference between place of supply for B2B vs. B2C services?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "- B2B (Business-to-Business): For registered business clients, the place of supply is generally the recipient's location.\n- B2C (Business-to-Consumer): For unregistered individuals, the place of supply is typically the service provider's location."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "When is IGST applicable for services?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "IGST (Integrated GST) is levied on any service where the supplier and the place of supply are in two different Indian states. It also applies to imports and exports. For exports of services, the supply is \"zero-rated,\" meaning IGST applies at a 0% rate."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can you provide a simple GST place of supply checklist?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Certainly. For any transaction, run through this mental checklist:\n1. Identify Locations: Where are you and your client located?\n2. Determine Client Type: Is the client a registered business (B2B) or an individual (B2C)?\n3. Apply the Rule:\n    - B2B: Place of supply is the client's location.\n    - B2C: Place of supply is generally your location.\n4. Confirm the Tax: Based on the above, determine if you need to charge IGST (inter-state/export) or CGST + SGST (intra-state).\n5. Check for Exceptions: Be aware that some services (e.g., related to immovable property) have unique rules."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What happens if I mention the wrong Place of Supply?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "An incorrect place of supply can cause your client's claim for Input Tax Credit (ITC) to be denied, creating a direct financial loss for them and severely damaging your professional credibility. You may also become liable for paying the correct tax to the government, along with interest and penalties."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "body": [
+    {
+      "type": "heading_2",
+      "content": "The Global Professional's Playbook for Mastering GST Place of Supply"
+    },
+    {
+      "type": "paragraph",
+      "content": "This guide isn't about memorizing tax law; it's about executing a precise, three-step framework that moves you from uncertainty to control over your cross-border transactions. By systematically diagnosing your situation, applying the correct strategy, and arming yourself with the right tools, you can eliminate compliance risk and focus on what you do best."
+    },
+    {
+      "type": "heading_3",
+      "content": "Step 1: The Diagnostic — Pinpoint Your GST Scenario"
+    },
+    {
+      "type": "paragraph",
+      "content": "Before applying any rule, you must first understand the landscape. This means answering three foundational questions to clarify your specific obligations under India's GST framework for place of supply."
+    },
+    {
+      "type": "paragraph",
+      "content": "**1. Goods or Services?**\nThis is the critical first distinction. The rules for physical goods, governed by Section 10 of the IGST Act, focus on the movement of those goods. For most elite professionals—consultants, developers, and strategists—the focus is on services, which fall under Section 12 for domestic transactions and Section 13 for international ones."
+    },
+    {
+      "type": "paragraph",
+      "content": "**2. Client Location: India or Abroad?**\nYour client's location is the primary determinant of the tax you apply."
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "**Client in India:** The transaction is domestic. You will charge either CGST + SGST for an intra-state supply (client in your state) or IGST for an inter-state supply (client in another Indian state).",
+        "**Client Abroad:** The transaction is a cross-border supply. For services provided to a client in the US, EU, or elsewhere, the place of supply is the recipient's location. This transaction qualifies as an **export of services**, which is a \"zero-rated supply.\""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "**3. Client Profile (for Indian Clients): Business (B2B) or Consumer (B2C)?**\nWhen dealing with domestic clients, their GST registration status is key."
+    },
+    {
+      "type": "table",
+      "header": [
+        "Client Type",
+        "Place of Supply Rule",
+        "Your Tax Implication"
+      ],
+      "rows": [
+        [
+          "**B2B (Registered Business)**",
+          "The location of the service recipient.",
+          "Charge IGST if in another state; CGST+SGST if in the same state. They can claim Input Tax Credit (ITC)."
+        ],
+        [
+          "**B2C (Unregistered Individual)**",
+          "Generally, your location as the service provider.",
+          "Charge CGST+SGST, as the supply is typically deemed to be where you are located."
+        ]
+      ]
+    },
+    {
+      "type": "heading_3",
+      "content": "Step 2: The Strategy — Secure Your Status as an Exporter"
+    },
+    {
+      "type": "paragraph",
+      "content": "Once you've diagnosed your scenario, the strategy for global services is clear: build an irrefutable case that your place of supply is outside India. This allows you to classify your service as a \"zero-rated supply\"—a powerful provision that treats your service as taxable but at a 0% rate. You don't charge IGST to your foreign client, making you more competitive, and you can still claim a refund of the GST paid on your business inputs."
+    },
+    {
+      "type": "paragraph",
+      "content": "To qualify your service as an export, you must meet five conditions under Section 2(6) of the IGST Act:"
+    },
+    {
+      "type": "list",
+      "style": "ordered",
+      "items": [
+        "The supplier (you) is located in India.",
+        "The recipient (your client) is located outside India.",
+        "The **place of supply** is outside India.",
+        "Payment is received in convertible foreign exchange.",
+        "You and your client are not merely different establishments of the same entity."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "**Your Documentation is Your Defense**\nProving these conditions is non-negotiable. A simple invoice is insufficient. Maintain a robust paper trail for every international project:"
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "**Master Service Agreement (MSA):** Your foundational document, clearly stating the client's legal name and registered foreign address.",
+        "**Proof of Payment:** A Foreign Inward Remittance Certificate (FIRC) from your bank is the gold standard, confirming payment from a foreign source in foreign currency.",
+        "**Compliant Invoices:** Your invoice must explicitly state \"Supply Meant for Export under Bond or LUT without Payment of IGST\" (if you have a Letter of Undertaking)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "Getting this wrong has serious consequences. If you incorrectly assess the place of supply for a domestic client and charge the wrong tax, authorities can deny their claim for Input Tax Credit (ITC), creating a significant financial liability and damaging your professional credibility."
+    },
+    {
+      "type": "heading_3",
+      "content": "Step 3: The Armor — Execute with Bulletproof Invoicing"
+    },
+    {
+      "type": "paragraph",
+      "content": "Strategy requires flawless execution. This practical toolkit turns rules into action, demonstrating professionalism and eliminating compliance friction."
+    },
+    {
+      "type": "paragraph",
+      "content": "**The Exporter's Invoice Checklist**\nBefore sending any invoice to a global client, ensure it passes this check:"
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "**Clear Identification:** Does it include your GSTIN and the client's full legal name and foreign address?",
+        "**Explicit Place of Supply:** Is the Place of Supply explicitly stated as the client's country (e.g., \"Place of Supply: New York, USA\")?",
+        "**Correct Export Declaration:** Does it include the mandatory declaration for export, such as **\"Supply Meant for Export under Bond or Letter of Undertaking without Payment of IGST\"**? A Letter of Undertaking (LUT) is a simple online filing that allows you to export without paying IGST upfront, which is a major cash flow advantage."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "**Demystifying the \"Bill-to-Ship-to\" Scenario**\nThis scenario can cause confusion. Imagine your client in New York (\"Bill-to\") hires you to provide services for their subsidiary in London (\"Ship-to\"). The rule is clear: the place of supply is deemed to be the location of the person who gives the instruction—the \"Bill-to\" party. You would invoice the New York entity, list the Place of Supply as the USA, and treat it as a zero-rated export."
+    },
+    {
+      "type": "heading_2",
+      "content": "Frequently Asked Questions"
+    },
+    {
+      "type": "paragraph",
+      "content": "Putting this playbook into action raises specific questions. Here are direct answers to the most common queries."
+    },
+    {
+      "type": "paragraph",
+      "content": "**1. What is the place of supply for IT services provided from India to the USA?**"
+    },
+    {
+      "type": "paragraph",
+      "content": "The place of supply is the location of the recipient—the USA. This qualifies as an \"export of services\" and is a \"zero-rated supply.\" You do not charge IGST on your invoice to the US client."
+    },
+    {
+      "type": "paragraph",
+      "content": "**2. How do I prove the place of supply for consulting services?**"
+    },
+    {
+      "type": "paragraph",
+      "content": "Your proof lies in your documentation. The key evidence includes:"
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "A service agreement or contract stating the client's foreign address.",
+        "Export invoices with the correct declarations.",
+        "A Foreign Inward Remittance Certificate (FIRC) from your bank as proof of payment in foreign currency."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "**3. What is the difference between place of supply for B2B vs. B2C services?**"
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "**B2B (Business-to-Business):** For registered business clients, the place of supply is generally the recipient's location.",
+        "**B2C (Business-to-Consumer):** For unregistered individuals, the place of supply is typically the service provider's location."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "**4. When is IGST applicable for services?**"
+    },
+    {
+      "type": "paragraph",
+      "content": "IGST (Integrated GST) is levied on any service where the supplier and the place of supply are in two different Indian states. It also applies to imports and exports. For exports of services, the supply is \"zero-rated,\" meaning IGST applies at a 0% rate."
+    },
+    {
+      "type": "paragraph",
+      "content": "**5. Can you provide a simple GST place of supply checklist?**"
+    },
+    {
+      "type": "paragraph",
+      "content": "Certainly. For any transaction, run through this mental checklist:"
+    },
+    {
+      "type": "list",
+      "style": "ordered",
+      "items": [
+        "**Identify Locations:** Where are you and your client located?",
+        "**Determine Client Type:** Is the client a registered business (B2B) or an individual (B2C)?",
+        "**Apply the Rule:**\n    *   **B2B:** Place of supply is the client's location.\n    *   **B2C:** Place of supply is generally your location.",
+        "**Confirm the Tax:** Based on the above, determine if you need to charge IGST (inter-state/export) or CGST + SGST (intra-state).",
+        "**Check for Exceptions:** Be aware that some services (e.g., related to immovable property) have unique rules."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "**6. What happens if I mention the wrong Place of Supply?**"
+    },
+    {
+      "type": "paragraph",
+      "content": "An incorrect place of supply can cause your client's claim for Input Tax Credit (ITC) to be denied, creating a direct financial loss for them and severely damaging your professional credibility. You may also become liable for paying the correct tax to the government, along with interest and penalties."
+    },
+    {
+      "type": "heading_2",
+      "content": "Conclusion: Invoice Any Client, Anywhere, with Absolute Confidence"
+    },
+    {
+      "type": "paragraph",
+      "content": "The complexity of GST place of supply rules is not a barrier but a structured system that can be mastered. The anxiety of compliance risk can be systematically dismantled. By following this 3-step playbook—**Diagnose, Strategize, and Armor Up**—you transform compliance from a source of stress into a professional strength."
+    },
+    {
+      "type": "paragraph",
+      "content": "You are no longer guessing; you are operating from a framework of control."
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "**Diagnosis** gives you clarity.",
+        "**Strategy** provides a defensible position for your global operations.",
+        "**Armor** ensures flawless execution."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "This framework is your pathway to operating with complete authority over your financial domain. You now have the clarity and tools to manage your GST obligations, protect yourself from risk, and dedicate your energy to what truly matters: delivering exceptional work. You are in command."
+    }
+  ],
+  "ogImage": "https://images.pexels.com/photos/9062771/pexels-photo-9062771.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "featuredImage": "https://images.pexels.com/photos/9062771/pexels-photo-9062771.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+}

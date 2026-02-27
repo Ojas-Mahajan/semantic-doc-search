@@ -1,0 +1,539 @@
+{
+  "id": 513,
+  "title": "The US-India DTAA: A Deep Dive into the 'Independent Personal Services' Article",
+  "pillar": "Tax Residency & Compliance",
+  "category": "Deep Dives",
+  "primary_keyword": "us india dtaa independent personal services",
+  "tags": [
+    "us-india tax treaty",
+    "dtaa",
+    "w-8ben",
+    "fixed base",
+    "international tax"
+  ],
+  "interlinking_suggestions": [
+    {
+      "id": 1,
+      "title": "The Ultimate Digital Nomad Tax Survival Guide for 2025",
+      "slug": "/blog/digital-nomad-tax-guide"
+    },
+    {
+      "id": 153,
+      "title": "Tbilisi, Georgia: The Ultimate Digital Nomad Guide (2025)",
+      "slug": "/blog/tbilisi-georgia-digital-nomad-guide"
+    },
+    {
+      "id": 625,
+      "title": "A Guide to the 'Autónomo' System for Freelancers in Spain",
+      "slug": "/blog/guide-to-spain-autonomo-system-for-freelancers"
+    }
+  ],
+  "author": {
+    "name": "Ben Carter",
+    "role": "US Expat Financial Advisor (CFA)",
+    "bio": "A certified financial planner specializing in the unique challenges faced by US citizens abroad. Ben's articles provide actionable advice on everything from FBAR and FATCA compliance to retirement planning for expats.",
+    "expertise": [
+      "US expat",
+      "tax",
+      "FBAR",
+      "FEIE",
+      "retirement",
+      "investing"
+    ],
+    "credentials": [
+      "CFA Charterholder",
+      "Certified Financial Planner (CFP)"
+    ],
+    "sameAs": [
+      "https://www.linkedin.com/in/bencarter-example"
+    ]
+  },
+  "reviewedBy": {
+    "name": "Dr. Alistair Finch",
+    "role": "International Tax Strategist",
+    "bio": "With a Ph.D. in Economics and over 15 years at a Big Four accounting firm, Alistair specializes in demystifying cross-border tax law for independent professionals. He focuses on risk mitigation and long-term financial planning.",
+    "expertise": [
+      "tax",
+      "compliance",
+      "finance",
+      "legal",
+      "FBAR",
+      "FEIE",
+      "residency"
+    ],
+    "credentials": [
+      "Ph.D., Economics",
+      "Certified Public Accountant (CPA)"
+    ],
+    "sameAs": [
+      "https://www.linkedin.com/in/alistairfinch-example"
+    ]
+  },
+  "key_takeaways": [
+    "Meticulously track every day of physical presence in the foreign country to stay under the 90-day limit, as even one day over can trigger local tax obligations.",
+    "Avoid creating a taxable 'fixed base' by using temporary hot desks or client meeting rooms rather than leasing a dedicated office or accepting a permanent desk at a client's site.",
+    "Annually and proactively obtain your official Tax Residency Certificate (TRC), as it is the non-negotiable proof required to claim any treaty benefits.",
+    "To prevent tax withholding and protect your cash flow, provide your client with your Tax Residency Certificate (TRC) and other required forms before they process your payment."
+  ],
+  "summary": "Independent professionals working between the US and India face significant anxiety over the complex tax treaty, fearing double taxation from mismanaging their physical presence or workspace. The core advice is to proactively manage the two key risks under Article 15: meticulously tracking days to stay under the 90-day limit and deliberately avoiding the creation of a permanent \"fixed base\" in the other country. By implementing this framework and securing essential documents like a Tax Residency Certificate, professionals can transform compliance uncertainty into confident control, ensuring their income is protected and taxed correctly in their home country.",
+  "ai_overview_answer": "Under the US-India tax treaty, an independent professional's income is taxed only in their country of residence unless specific conditions are met in the country where the services are performed. Article 15 of the treaty allows the source country to tax the income if the professional's stay exceeds 90 days in a tax year or if they have a \"fixed base\" regularly available to them. The 90-day rule is a cumulative count, requiring careful tracking of all days of physical presence. A \"fixed base\" refers to a location with permanence, such as a leased office or a dedicated client-provided workspace, which can trigger tax liability even with short stays.\n\nTo claim treaty benefits, professionals must prove their residency with a Tax Residency Certificate (TRC). For US residents, this is Form 6166, obtained from the IRS. When working with an Indian client, the US professional must provide this TRC and an electronically filed Form 10F to prevent tax withholding at the source. Finally, US professionals should disclose their treaty-based position to the IRS by filing Form 8833 with their tax return.",
+  "disclaimer": null,
+  "slug": "/blog/us-india-dtaa-independent-personal-services-article",
+  "canonicalUrl": "https://gruv.ai/blog/us-india-dtaa-independent-personal-services-article",
+  "source_urls": [],
+  "wordCount": 1833,
+  "readingTime": 10,
+  "meta_title": "US India DTAA: Independent Personal Services Tax Playbook",
+  "meta_description": "Master the US India DTAA for independent personal services. This guide explains the 90-day rule & fixed base test to protect your cross-border income. Get the playbook.",
+  "image_alt": "A guide to the US-India DTAA for independent personal services, showing how to navigate tax obligations.",
+  "ogTitle": "US India DTAA: Independent Personal Services Tax Playbook",
+  "ogDescription": "Master the US India DTAA for independent personal services. This guide explains the 90-day rule & fixed base test to protect your cross-border income. Get the playbook.",
+  "ogImage": "https://images.pexels.com/photos/879360/pexels-photo-879360.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "featuredImage": "https://images.pexels.com/photos/879360/pexels-photo-879360.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "twitterTitle": "US India DTAA: Independent Personal Services Tax Playbook",
+  "twitterDescription": "Master the US India DTAA for independent personal services. This guide explains the 90-day rule & fixed base test to protect your cross-border income. Get the playbook.",
+  "twitterImage": "",
+  "twitterCard": "summary_large_image",
+  "dates": {
+    "published_date": "2023-11-01T10:00:00Z",
+    "last_updated": "2023-11-01T10:00:00Z"
+  },
+  "structured_data": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://gruv.ai/#organization",
+        "name": "Gruv",
+        "url": "https://gruv.ai/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://gruv.ai/logo.png"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://gruv.ai/blog/us-india-dtaa-independent-personal-services-article/#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://gruv.ai"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Blog",
+            "item": "https://gruv.ai/blog"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "The US-India DTAA: A Deep Dive into the 'Independent Personal Services' Article"
+          }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "@id": "https://gruv.ai/blog/us-india-dtaa-independent-personal-services-article/#howto",
+        "name": "The US-India DTAA: A Deep Dive into the 'Independent Personal Services' Article",
+        "headline": "The US-India DTAA: A Deep Dive into the 'Independent Personal Services' Article",
+        "description": "Independent professionals working between the US and India face significant anxiety over the complex tax treaty, fearing double taxation from mismanaging their physical presence or workspace. The core advice is to proactively manage the two key risks under Article 15: meticulously tracking days to stay under the 90-day limit and deliberately avoiding the creation of a permanent \"fixed base\" in the other country. By implementing this framework and securing essential documents like a Tax Residency Certificate, professionals can transform compliance uncertainty into confident control, ensuring their income is protected and taxed correctly in their home country.",
+        "datePublished": "2023-11-01T10:00:00Z",
+        "dateModified": "2023-11-01T10:00:00Z",
+        "inLanguage": "en-US",
+        "articleSection": "Deep Dives",
+        "isAccessibleForFree": true,
+        "author": {
+          "@type": "Person",
+          "name": "Ben Carter",
+          "url": "https://www.linkedin.com/in/bencarter-example"
+        },
+        "publisher": {
+          "@id": "https://gruv.ai/#organization"
+        },
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://gruv.ai/blog/us-india-dtaa-independent-personal-services-article"
+        },
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Assess Your Foundation - The Article 15 Litmus Test",
+            "text": "Your journey to confidence begins with a single, foundational question: Do the rules of Article 15 even apply to you? Before tracking a single day or analyzing an office lease, you must confirm your operating context. This initial diagnostic determines your entire compliance strategy. Getting it wrong means wasting valuable energy on the wrong risks."
+          },
+          {
+            "@type": "HowToStep",
+            "name": "The Framework - Managing Your Two Critical Risk Vectors",
+            "text": "Confirming that Article 15 applies is the what. Mastering it is the how. Your entire compliance strategy boils down to proactively managing two distinct operational risks: the time you spend in the other country and the nature of the space you occupy there. Viewing these not as threats, but as controllable variables, is the key to confident control."
+          },
+          {
+            "@type": "HowToStep",
+            "name": "The Execution - Proving Your Position with Precision",
+            "text": "Demonstrating intent is half the equation; proving it with official documentation is the other. Your formal certifications and tax filings create the official record that tax authorities rely on. This is where you translate careful planning into a bulletproof compliance position and secure the benefits of the US-India tax treaty."
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is the 90-day rule for independent professionals in the US-India tax treaty?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "This rule in Article 15 states that India gains the right to tax your service income if your physical presence in India is 90 days or more during a taxable year. The count is cumulative, not consecutive. If you stay below this threshold (and do not have a 'fixed base'), your income is generally taxable only in your country of residence."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How do I prove my tax residency to claim treaty benefits?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The foundational document is the Tax Residency Certificate (TRC). For a U.S. resident, this is Form 6166, obtained from the IRS. For an Indian resident, it's a TRC from Indian tax authorities. This is the official proof you present to certify that you are a taxpayer in your home country. Without it, you cannot claim treaty benefits."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What practically counts as a 'fixed base' for a consultant?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Think of a fixed base as any location with permanence and control that is regularly available to you for your professional activities. Red flags include a long-term office lease, a dedicated desk provided by a client for your exclusive use, or listing a local address on business materials. Using flexible hot desks or meeting clients at their premises is generally safe. The key is avoiding an operational footprint that looks like an established place of business."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can India tax my income if I am a US consultant working remotely for an Indian client?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Generally, no. If you perform all your work from the United States and never travel to India, you do not meet the physical presence test. As long as you also lack a fixed base in India, the conditions that give India the right to tax your income are not met. Your income would be taxable only in the U.S."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Does time spent in India for tourism count towards the 90-day limit?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The 90-day rule applies to days you are present in the country for the purpose of performing professional services. If you can clearly document that certain days were spent purely for tourism—on a completely separate trip or after a project has concluded—those days typically do not count. However, mixing work and tourism on the same day would likely cause that day to be counted. Meticulous records are your best defense."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Do I need a TRC even if I stay less than 90 days and have no fixed base?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, absolutely. The 90-day and fixed-base rules determine if you are eligible for a treaty benefit. The TRC is the document that proves you have the right to claim that eligibility. Proactively providing your TRC to your client is what prevents them from withholding tax at the source, regardless of how short your stay is."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What happens if I accidentally stay 91 days in India while earning income there?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Crossing the 90-day threshold gives India the right to tax the income attributable to the services you performed in India during that year. It does not make your global income taxable there. However, you would likely need to file an Indian tax return, pay tax on that income, and then claim a foreign tax credit on your U.S. return to avoid double taxation. Proactive day-counting is designed to prevent this exact scenario."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "body": [
+    {
+      "type": "paragraph",
+      "content": "<strong>Mastering Article 15 to transform cross-border anxiety into confident control.</strong>"
+    },
+    {
+      "type": "paragraph",
+      "content": "For the elite independent professional, operating between the US and India is a gateway to immense opportunity. It is also a source of persistent, low-grade anxiety. The complexity of international tax, particularly the US-India Double Taxation Avoidance Agreement (DTAA), can feel like a minefield. The fear of a misstep—an overstayed visit, a poorly structured workspace—can undermine the very freedom you’ve worked to create."
+    },
+    {
+      "type": "paragraph",
+      "content": "This playbook is designed to eliminate that uncertainty. We will move beyond abstract legal theory and provide a clear, actionable framework for mastering your obligations under Article 15, the provision governing independent personal services. The goal is to shift your mindset from that of a professional reacting to risk to that of a CEO strategically managing resources. By the end, you will have a definitive system for assessing your position, managing your risks, and executing your compliance with precision."
+    },
+    {
+      "type": "heading_2",
+      "content": "Part 1: Assess Your Foundation - The Article 15 Litmus Test"
+    },
+    {
+      "type": "paragraph",
+      "content": "Your journey to confidence begins with a single, foundational question: Do the rules of Article 15 even apply to you? Before tracking a single day or analyzing an office lease, you must confirm your operating context. This initial diagnostic determines your entire compliance strategy. Getting it wrong means wasting valuable energy on the wrong risks."
+    },
+    {
+      "type": "heading_3",
+      "content": "The Default Rule, Demystified"
+    },
+    {
+      "type": "paragraph",
+      "content": "The foundational principle of international tax is that your income is taxed where you are a resident. A DTAA exists to prevent both countries from taxing the same income by establishing which nation has the primary right to tax."
+    },
+    {
+      "type": "paragraph",
+      "content": "Under the treaty, a \"resident of a Contracting State\" is anyone liable for tax there due to domicile, residence, or a similar criterion. If you are a U.S. citizen or Green Card holder, the U.S. is your tax home. For India, residency is typically determined by your physical presence. The default is simple: U.S. residents pay tax to the IRS; Indian residents pay tax in India. Article 15 becomes relevant only when you, as a resident of one country, earn income from services performed in the *other*."
+    },
+    {
+      "type": "heading_3",
+      "content": "The \"Independent Professional Services\" Filter"
+    },
+    {
+      "type": "paragraph",
+      "content": "Article 15 is specifically designed for income from \"independent personal services.\" This includes traditional professions like physicians, lawyers, and engineers, but its scope is broad enough to cover the modern \"Business-of-One.\" If you are a consultant, creative professional, software developer, or independent expert, you almost certainly fall under this umbrella."
+    },
+    {
+      "type": "paragraph",
+      "content": "The key distinction is independence. You are not an employee. If a client directs your work in detail, you likely fall under Article 16 (\"Dependent Personal Services\"), which has different rules. For the autonomous global professional, Article 15 is the correct framework."
+    },
+    {
+      "type": "heading_3",
+      "content": "Actionable Self-Assessment Checklist"
+    },
+    {
+      "type": "paragraph",
+      "content": "Answering \"yes\" to all three questions confirms that the rest of this playbook is essential for you."
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "<strong>Are you a tax resident of either the US or India?</strong> You must have a clear tax home in one of the two countries as defined by its domestic laws and the treaty.",
+        "<strong>Are you providing professional services as an independent contractor?</strong> Your income must come from your expertise, not from being a salaried employee of the client paying you.",
+        "<strong>Is your client based in the *other* country?</strong> This cross-border element (e.g., a U.S. resident consulting for a company in India) is the trigger for the DTAA rules."
+      ]
+    },
+    {
+      "type": "heading_2",
+      "content": "Part 2: The Framework - Managing Your Two Critical Risk Vectors"
+    },
+    {
+      "type": "paragraph",
+      "content": "Confirming that Article 15 applies is the *what*. Mastering it is the *how*. Your entire compliance strategy boils down to proactively managing two distinct operational risks: the time you spend in the other country and the nature of the space you occupy there. Viewing these not as threats, but as controllable variables, is the key to confident control."
+    },
+    {
+      "type": "heading_3",
+      "content": "Risk Vector #1: The Physical Presence Clock (The 90-Day Rule)"
+    },
+    {
+      "type": "paragraph",
+      "content": "The first test is a simple measure of time. The country you are visiting (the \"source\" country) gains the right to tax your income if your stay there \"is for a period or periods amounting to or exceeding in the aggregate 90 days in the relevant taxable year.\" This is a hard limit with significant financial consequences."
+    },
+    {
+      "type": "paragraph",
+      "content": "Treat this 90-day allowance as a budget. And every good budget requires meticulous tracking."
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "<strong>Master the Day Count:</strong> For tax treaty purposes, any portion of a day spent in the country, including arrival and departure days, typically counts toward your total. The principle is simple: if you are physically present in the country at any point during a day, cautiously count it.",
+        "<strong>Implement a Tracking System:</strong> Forget haphazard calendar checks. A simple log with three columns—Date, Location (City, Country), and Cumulative Days—is your best defense. Update it religiously. This isn’t just record-keeping; it’s a real-time dashboard that empowers you to make informed decisions.",
+        "<strong>Plan Strategically:</strong> With a precise count, the 90-day rule becomes a strategic asset. Knowing you have 45 days remaining in the fiscal year allows you to plan travel with absolute certainty, free from the fear of accidentally crossing a critical tax threshold."
+      ]
+    },
+    {
+      "type": "heading_3",
+      "content": "Risk Vector #2: The Operational Footprint (The \"Fixed Base\" Rule)"
+    },
+    {
+      "type": "paragraph",
+      "content": "While managing your days is a matter of arithmetic, navigating the *fixed base* rule requires more nuance. Even if you spend fewer than 90 days in the other country, your income can be taxed there if you have a <strong>fixed base</strong> regularly available to you for performing your services. In our age of remote work, this term is dangerously ambiguous and the single biggest compliance trap for the modern professional."
+    },
+    {
+      "type": "paragraph",
+      "content": "A *fixed base* is any location with a degree of permanence that you use to conduct your business. Tax authorities look past lease agreements to the practical reality of your work. They want to know if you have established a stable, identifiable center of operations. Your goal is to draw a bright, clear line between temporary presence and an established operational base."
+    },
+    {
+      "type": "paragraph",
+      "content": "<strong>The Modern \"Fixed Base\" Red Flag Checklist:</strong>"
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "<strong>The Dedicated Lease:</strong> Signing a long-term lease for a private office or even a specific, dedicated desk at a co-working space is the most obvious signal of permanence.",
+        "<strong>The \"Embedded\" Consultant:</strong> Using a single client's office as your primary and continuous place of work can make the space appear to be \"at your disposal,\" blurring the line of independence.",
+        "<strong>Public Proclamations:</strong> Listing a specific local address on your business cards, website, or professional profiles can be interpreted as holding it out to the public as your place of business.",
+        "<strong>Building a Local Team:</strong> Hiring local employees or full-time contractors who report to you at a specific location moves you from a solo service provider to a local operator.",
+        "<strong>Maintaining Specialized Facilities:</strong> Renting or owning a workshop, studio, or lab for your professional use creates an undeniable physical and operational anchor."
+      ]
+    },
+    {
+      "type": "table",
+      "header": [
+        "Do This (Maintains Independence)",
+        "Don't Do This (Creates a Fixed Base Risk)"
+      ],
+      "rows": [
+        [
+          "Use flexible, pay-as-you-go co-working passes for meeting rooms or hot desks.",
+          "Lease a private, dedicated office for several months."
+        ],
+        [
+          "Meet clients at their offices, cafes, or your temporary accommodation (e.g., hotel business center).",
+          "Accept a dedicated, permanent desk at your primary client's headquarters for a project's duration."
+        ],
+        [
+          "Use a virtual office service *strictly* for mail forwarding to your home country address.",
+          "Register a virtual office address as your official place of business on contracts."
+        ],
+        [
+          "Work from a variety of locations without a single, recurring professional address.",
+          "Routinely and exclusively work from one single address for your entire stay."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "Managing your fixed base risk is about demonstrating intent. Your actions must consistently prove you are a visitor performing services temporarily, not an enterprise establishing a local presence."
+    },
+    {
+      "type": "heading_2",
+      "content": "Part 3: The Execution - Proving Your Position with Precision"
+    },
+    {
+      "type": "paragraph",
+      "content": "Demonstrating intent is half the equation; proving it with official documentation is the other. Your formal certifications and tax filings create the official record that tax authorities rely on. This is where you translate careful planning into a bulletproof compliance position and secure the benefits of the US-India tax treaty."
+    },
+    {
+      "type": "heading_3",
+      "content": "The Ultimate Proof: Securing Your Tax Residency Certificate (TRC)"
+    },
+    {
+      "type": "paragraph",
+      "content": "Think of the Tax Residency Certificate (TRC) as your passport for treaty benefits. It is the non-negotiable document officially certifying to the other country that you are a tax resident of your home nation."
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "<strong>For US Residents:</strong> Your TRC is <strong>Form 6166, Certification of U.S. Tax Residency</strong>. You obtain this by filing <strong>Form 8802, Application for United States Residency Certification,</strong> with the IRS.",
+        "<strong>Timeline is Critical:</strong> Plan ahead. Standard processing can take 45 days or more. Apply far in advance of when you'll need to present it to an Indian client.",
+        "<strong>Common Pitfall:</strong> Waiting until a client asks for it. By then, it's often too late to prevent withholding tax. Make obtaining your TRC an annual, proactive task."
+      ]
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "<strong>For Indian Residents:</strong> To claim treaty benefits in the US, you must obtain a TRC from Indian tax authorities. Similarly, an Indian client will require a US professional's Form 6166 to justify not withholding tax. The US professional may also need to electronically file <strong>Form 10F</strong> on the Indian Income Tax portal.",
+        "<strong>The Modern Requirement:</strong> Form 10F is a mandatory self-declaration that provides details required by Indian tax law that may not be on a foreign TRC. It works in tandem with the TRC to complete your compliance picture for Indian authorities."
+      ]
+    },
+    {
+      "type": "heading_3",
+      "content": "Filing with Precision: Creating Your Paper Trail"
+    },
+    {
+      "type": "paragraph",
+      "content": "Your compliance efforts culminate in your annual tax return. For US professionals, this means filing <strong>Form 8833, Treaty-Based Return Position Disclosure,</strong> with your U.S. income tax return (e.g., Form 1040)."
+    },
+    {
+      "type": "paragraph",
+      "content": "This form officially notifies the IRS that you are using a treaty provision to modify a standard rule of the U.S. tax code. Filing Form 8833 is not an audit trigger; on the contrary, it signals diligence. You explicitly state the treaty article you are relying on (Article 15) and briefly explain your position, creating a crystal-clear legal record."
+    },
+    {
+      "type": "heading_3",
+      "content": "The Proactive Protocol: Preventing Tax Withholding at the Source"
+    },
+    {
+      "type": "paragraph",
+      "content": "The final piece of execution is proactive communication. Your goal is to prevent incorrect tax withholding before it happens, saving you the administrative headache of reclaiming funds from a foreign government."
+    },
+    {
+      "type": "paragraph",
+      "content": "For a US professional working with an Indian client, this means providing the client with a copy of your <strong>Form 6166 (TRC)</strong> and the electronically filed <strong>Form 10F</strong> upfront. This documentation serves as formal proof to the client's accounting department that you are not subject to Indian domestic withholding taxes (Tax Deducted at Source or TDS) on your service income. This simple step is often the difference between seamless payment and a significant disruption to your cash flow."
+    },
+    {
+      "type": "heading_2",
+      "content": "Frequently Asked Questions"
+    },
+    {
+      "type": "paragraph",
+      "content": "Executing a cross-border strategy always brings up specific \"what-if\" scenarios. Here are direct answers to the most common questions that arise when putting the US-India tax treaty into practice."
+    },
+    {
+      "type": "paragraph",
+      "content": "<strong>What is the 90-day rule for independent professionals in the US-India tax treaty?</strong>"
+    },
+    {
+      "type": "paragraph",
+      "content": "This rule in Article 15 states that India gains the right to tax your service income if your physical presence in India is 90 days or more during a taxable year. The count is cumulative, not consecutive. If you stay below this threshold (and do not have a \"fixed base\"), your income is generally taxable only in your country of residence."
+    },
+    {
+      "type": "paragraph",
+      "content": "<strong>How do I prove my tax residency to claim treaty benefits?</strong>"
+    },
+    {
+      "type": "paragraph",
+      "content": "The foundational document is the <strong>Tax Residency Certificate (TRC)</strong>. For a U.S. resident, this is <strong>Form 6166</strong>, obtained from the IRS. For an Indian resident, it's a TRC from Indian tax authorities. This is the official proof you present to certify that you are a taxpayer in your home country. Without it, you cannot claim treaty benefits."
+    },
+    {
+      "type": "paragraph",
+      "content": "<strong>What practically counts as a \"fixed base\" for a consultant?</strong>"
+    },
+    {
+      "type": "paragraph",
+      "content": "Think of a *fixed base* as any location with permanence and control that is regularly available to you for your professional activities. Red flags include a long-term office lease, a dedicated desk provided by a client for your exclusive use, or listing a local address on business materials. Using flexible hot desks or meeting clients at their premises is generally safe. The key is avoiding an operational footprint that looks like an established place of business."
+    },
+    {
+      "type": "paragraph",
+      "content": "<strong>Can India tax my income if I am a US consultant working remotely for an Indian client?</strong>"
+    },
+    {
+      "type": "paragraph",
+      "content": "Generally, no. If you perform all your work from the United States and never travel to India, you do not meet the physical presence test. As long as you also lack a fixed base in India, the conditions that give India the right to tax your income are not met. Your income would be taxable only in the U.S."
+    },
+    {
+      "type": "paragraph",
+      "content": "<strong>Does time spent in India for tourism count towards the 90-day limit?</strong>"
+    },
+    {
+      "type": "paragraph",
+      "content": "The 90-day rule applies to days you are present in the country *for the purpose of performing professional services*. If you can clearly document that certain days were spent purely for tourism—on a completely separate trip or after a project has concluded—those days typically do not count. However, mixing work and tourism on the same day would likely cause that day to be counted. Meticulous records are your best defense."
+    },
+    {
+      "type": "paragraph",
+      "content": "<strong>Do I need a TRC even if I stay less than 90 days and have no fixed base?</strong>"
+    },
+    {
+      "type": "paragraph",
+      "content": "<strong>Yes, absolutely.</strong> The 90-day and fixed-base rules determine *if* you are eligible for a treaty benefit. The TRC is the document that proves you have the *right* to claim that eligibility. Proactively providing your TRC to your client is what prevents them from withholding tax at the source, regardless of how short your stay is."
+    },
+    {
+      "type": "paragraph",
+      "content": "<strong>What happens if I accidentally stay 91 days in India while earning income there?</strong>"
+    },
+    {
+      "type": "paragraph",
+      "content": "Crossing the 90-day threshold gives India the right to tax the income attributable to the services you performed *in India* during that year. It does not make your global income taxable there. However, you would likely need to file an Indian tax return, pay tax on that income, and then claim a foreign tax credit on your U.S. return to avoid double taxation. Proactive day-counting is designed to prevent this exact scenario."
+    },
+    {
+      "type": "heading_2",
+      "content": "Conclusion: From Anxious Operator to Confident CEO"
+    },
+    {
+      "type": "paragraph",
+      "content": "The US-India tax treaty is not a trap; it is a system of rules. The anxiety many professionals feel comes not from the rules themselves, but from passively reacting to them. The moment you shift your mindset from navigating a minefield to executing a clear strategy, everything changes. You reclaim control."
+    },
+    {
+      "type": "paragraph",
+      "content": "This playbook was designed to facilitate that shift. It provides a framework to transform compliance from a source of fear into a pillar of your professional strategy. You now have the tools to:"
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "<strong>Assess Your Foundation:</strong> Determine with certainty whether you are operating under Article 15, establishing the ground rules for your engagement.",
+        "<strong>Manage Your Key Risk Vectors:</strong> Actively manage the two variables that matter most: your <strong>time</strong> (the 90-day clock) and your <strong>space</strong> (the operational footprint that could create a *fixed base*).",
+        "<strong>Execute with Precision:</strong> Create an undeniable record by securing your TRC and filing the correct forms, building a fortress of certainty around your business."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "This structured approach is what separates the anxious freelancer from the confident CEO of a \"Business-of-One.\" You built your business for autonomy and freedom. By implementing this framework, you create the operational integrity to protect it, allowing you to focus on your craft, not on compliance. You now have the playbook to operate with the confidence you deserve."
+    }
+  ],
+  "seo": {
+    "ogImage": "https://images.pexels.com/photos/879360/pexels-photo-879360.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "featuredImage": "https://images.pexels.com/photos/879360/pexels-photo-879360.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  }
+}
