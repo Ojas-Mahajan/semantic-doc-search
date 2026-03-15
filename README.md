@@ -1,4 +1,4 @@
-# Gruv Knowledge Base Search
+#  Knowledge Base Search
 
 This project implements a high-performance, locally-hosted search engine for a massive dataset of JSON articles. It utilizes **Meilisearch** for lightning-fast keyword and semantic search (using built-in HuggingFace vector embeddings) and provides a polished **React UI** for easy exploration and faceted filtering.
 
